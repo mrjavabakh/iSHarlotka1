@@ -1,0 +1,30 @@
+<svg width="100%" height="100%" style="overflow:visible;" preserveAspectRatio="none" viewBox="0 0 132.03 116" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0_163_3043" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="133" height="116">
+<rect width="132.033" height="116" rx="10" fill="white"/>
+</mask>
+<g mask="url(#mask0_163_3043)">
+<g filter="url(#filter0_dd_163_3043)">
+<rect x="-43.3867" y="9.43091" width="219.74" height="219.74" fill="url(#pattern0_163_3043)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd_163_3043" x="-81.8773" y="-21.3615" width="296.721" height="296.721" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="7.69811"/>
+<feGaussianBlur stdDeviation="19.2453"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_163_3043"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.92453"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_163_3043" result="effect2_dropShadow_163_3043"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_163_3043" result="shape"/>
+</filter>
+<pattern id="pattern0_163_3043" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_163_3043" transform="translate(-0.249908) scale(0.000366166)"/>
+</pattern>
+<image id="image0_163_3043" width="4096" height="2731" xlink:href="/assets/bg-mask-group.png"/>
+</defs>
+</svg>
