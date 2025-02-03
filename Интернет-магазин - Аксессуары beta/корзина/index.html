@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500"
+    />
+    <style>
+      body { font-family: Arial, sans-serif; }
+      .cart { max-width: 600px; margin: 20px auto; }
+      .cart ul { list-style: none; padding: 0; }
+      .cart li { display: flex; justify-content: space-between; margin-bottom: 10px; }
+      .total { font-weight: bold; margin-top: 20px; text-align: right; }
+      .quantity-btn { cursor: pointer; }
+    </style>
+    <title>HTML Preview</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" type="text/css" href="/корзина/compiled-styles.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body style="margin: 0px">
+    <div id="firejet-html-app">
+      <div class="component-component">
+        <div class="component-ttt-logo-tframe-56ttttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t" >
+          <div class="component-tt-logo-tframe-56t">
+            <div class="component-t-logo">
+              <object
+                data="/assets/Logo.svg"
+                class="component-logo"
+              ></object>
+            </div>
+            <section class="component-t-frame">
+              <section class="component-frame">
+                <section class="component-t-edit-search">
+                  <form class="d-flex" role="search">
+                    <input class="border border-0 form-control me-2" type="search" placeholder="Поиск по товарам..." aria-label="Search">
+                    <button class="btn" type="submit"><object
+                      data="/assets/EditSearch.svg"
+                      class="component-edit-search"
+                    ></object></button>
+                  </form>
+                 </section>
+              </section>
+            </section>
+            <div class="component-component-2">Узнать статус заказа</div>
+            <div>О нас</div>
+          </div>
+          <div class="component-ttt-group-tttgroup-group-basic-heart_outline-tuser-user_circle-t" >
+            <div class="component-tt-group-tttgroup-group">
+              <div class="component-t-group-tttgroup-group">
+                <object
+                  data="/assets/Group.svg"
+                  class="component-group"
+                ></object>
+                <div class="component-tt-group-group">
+                  <div class="component-t-group-group">
+                    <object
+                      data="/assets/Group1.svg"
+                      class="component-group-1"
+                    ></object
+                    ><object
+                      data="/assets/Group2.svg"
+                      class="component-group-2"
+                    ></object>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <object
+              data="/assets/BasicHeart_outline.svg"
+              class="component-basic-heart_outline"
+            ></object>
+            <div class="component-t-user-user_circle-t">
+              <object
+                data="/assets/UserUser_circle.svg"
+                class="component-user-user_circle"
+              ></object>
+              <div class="component-t">
+                <div class="component-component-4">Войти</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <section class="component-tt">
+          <div class="component-t-1">
+            <div class="component-component-5">Корзина</div>
+          </div>
+        </section>
+        <section class="component-ttt-vector-4tttimage-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790tttimage-10tt1iphone-7trectangle-t650790trectangle" >
+          <div class="cart">
+            <ul id="cart-items"></ul>
+            <div class="total">Итого: <span id="total-price">0</span> ₽</div>
+          </div>
+        
+          <!-- Пример кнопки для добавления товара -->
+          <button class="add-to-cart" data-id="1" data-name="Товар 1" data-price="650">Добавить Товар 1</button>
+          <button class="add-to-cart" data-id="2" data-name="Товар 2" data-price="790">Добавить Товар 2</button>
+          <!-- <div class="component-tt-vector-4tttimage-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790tttimage-10tt1iphone-7trectangle-t650790trectangle" >
+            <div class="component-t-vector-4tttimage-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790tttimage-10tt1iphone-7trectangle-t650790t" >
+              <object
+                data="/assets/Vector.svg"
+                class="component-vector"
+              ></object>
+              <div class="component-ttt-image-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790t" >
+                <div class="component-tt-image-10tttiphone-8timage-10ttiphone-12pro" >
+                  <div class="component-t-image-10tttiphone">
+                    <img
+                      src="/assets/background-2.png"
+                      loading="lazy"
+                      class="component-image"
+                    />
+                    <div class="component-ttt-iphone">
+                      <div class="component-t-2">
+                        <div class="component-component-7">Кабан именной</div>
+                        <div class="component-component-8">
+                          Силиконовый чехол
+                        </div>
+                      </div>
+                      <div class="component-t-iphone">
+                        <div class="component-i-phone">iPhone 8</div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="component-t-image-10ttiphone-12pro">
+                    <div class="component-image-1">
+                      <div class="component-background"></div>
+                      <div class="component-background-1"></div>
+                    </div>
+                    <div class="component-t-3">
+                      <div class="component-component-9">Миннесота Уайлд</div>
+                      <div class="component-component-10">
+                        Силиконовый чехол
+                      </div>
+                    </div>
+                    <div class="component-t-iphone-12pro">
+                      <div class="component-i-phone-12pro">iPhone 12 Pro</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="component-tttt-rectangle-tt650790ttrectangle-t650790t" >
+                  <div class="component-ttt-rectangle-tt650790ttrectangle-t650790t" >
+                    <div class="component-tt-rectangle-tt650790t">
+                      <div class="component-t-rectangle">
+                        <div class="component-rectangle">
+                          <div class="component-rectangle-1"></div>
+                          <div class="component-component-11">1</div>
+                          <object
+                            data="/assets/MenuClose_small.svg"
+                            class="component-menu-close_small"
+                          ></object>
+                        </div>
+                      </div>
+                      <div class="component-t-t650790t">
+                        <div class="component-t-4">
+                          <div class="component-component-12">650 ₽</div>
+                          <div class="component-component-13">790 ₽</div>
+                        </div>
+                        <div class="component-t-5">
+                          <div class="component-component-14">Удалить</div>
+                          <div class="component-component-15">В избранное</div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="component-t-rectangle-t650790t">
+                      <div class="component-rectangle-2">
+                        <div class="component-rectangle-3"></div>
+                        <div class="component-component-16">1</div>
+                        <object
+                          data="/assets/MenuClose_small.svg"
+                          class="component-menu-close_small-1"
+                        ></object>
+                      </div>
+                      <div class="component-t-6">
+                        <div class="component-component-17">650 ₽</div>
+                        <div class="component-component-18">790 ₽</div>
+                      </div>
+                      <div class="component-t-7">
+                        <div class="component-component-19">Удалить</div>
+                        <div class="component-component-20">В избранное</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="component-tt-image-10tt1iphone-7trectangle-t650790t">
+                <div class="component-t-image-10tt1iphone">
+                  <div class="component-image-2">
+                    <div class="component-background-2"></div>
+                    <div class="component-background-3"></div>
+                  </div>
+                  <div class="component-t-t1iphone">
+                    <div class="component-t-1iphone">
+                      <div class="component-component-21">ХК Сочи лого 1</div>
+                      <div class="component-i-phone-1">iPhone 7</div>
+                    </div>
+                    <div class="component-component-22">Силиконовый чехол</div>
+                  </div>
+                </div>
+                <div class="component-t-rectangle-t">
+                  <div class="component-rectangle-4">
+                    <div class="component-rectangle-5"></div>
+                    <div class="component-component-23">1</div>
+                    <object
+                      data="/assets/MenuClose_small.svg"
+                      class="component-menu-close_small-2"
+                    ></object>
+                  </div>
+                  <div class="component-t-8">
+                    <div class="component-component-24">650 ₽</div>
+                    <div class="component-component-25">790 ₽</div>
+                  </div>
+                </div>
+                <div class="component-t-9">
+                  <div class="component-component-26">Удалить</div>
+                  <div class="component-component-27">В избранное</div>
+                </div>
+              </div>
+            </div>
+            <aside class="component-rectangle-6">
+              <div class="component-tttt-bg-mask-group-07032021tttrectangle-2tframe" >
+                <div class="component-ttt-bg-mask-group-07032021t">
+                  <div class="component-t-10">
+                    <div class="component-component-28">Промокод</div>
+                  </div>
+                  <div class="component-tt-bg-mask-group">
+                    <div class="component-t-bg-mask-group">
+                      <object
+                        data="/assets/MaskGroup.svg"
+                        class="component-bg-mask-group"
+                      ></object>
+                      <div class="component-component-29">
+                        <span
+                          ><p>
+                            Ориентировочная дата доставки:<span class="component-text" ></span>
+                          </p>
+                          <p class="component-para-1">07.03.2021</p></span
+                        >
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="component-tt-rectangle-2tframe">
+                  <div class="component-t-rectangle-1">
+                    <div class="component-rectangle-7"></div>
+                  </div>
+                  <div class="component-t-frame-1">
+                    <button class="component-enable">Применить</button>
+                  </div>
+                </div>
+              </div>
+              <div class="component-t-11">
+                <div class="component-component-30">
+                  <span>Итого: 76 530 ₽</span>
+                </div>
+              </div>
+              <div class="component-t-rectangle-2">
+                <button class="component-component-31">Оформить заказ</button>
+              </div>
+            </aside>
+          </div> -->
+        </section>
+        <footer class="component-t-vector">
+          <object
+            data="/assets/Vector.svg"
+            class="component-vector-1"
+          ></object>
+        </footer>
+        <section class="component-t-12">
+          <div class="component-component-32">Данные о покупателе</div>
+        </section>
+        <section class="component-ttt-rectangle-2ttemail-rectangle-2trectangle">
+          <div class="component-tt-rectangle-2ttemail-rectangle-2trectangle">
+            <div class="component-t-rectangle-3">
+              <div>ФИО</div>
+              <div class="component-rectangle-8"></div>
+            </div>
+            <div class="component-tte-mail-rectangle">
+              <div class="component-te-mail-rectangle">
+                <div>E-mail</div>
+                <div class="component-rectangle-9"></div>
+              </div>
+            </div>
+            <div class="component-t-rectangle-4">
+              <div>Номер телефона</div>
+              <div class="component-rectangle-10"></div>
+            </div>
+          </div>
+        </section>
+        <section class="component-t-13">
+          <div class="component-component-35">Адрес доставки</div>
+        </section>
+        <section class="component-tttt-rectangle-2rectangle">
+          <div class="component-ttt-rectangle-2rectangle">
+            <div class="component-tt-rectangle">
+              <div class="component-component-36">Введите адрес</div>
+              <div class="component-rectangle-11"></div>
+            </div>
+            <div class="component-rectangle-12">
+              <object
+                data="/assets/BasicRadio.svg"
+                class="component-basic-radio"
+              ></object>
+              <div class="component-component-37">
+                <span
+                  ><p>г. Москва, Кропоткинский пер.,</p>
+                  <p>дом 27, корпус 2, квартира 64</p></span
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="component-t-14">
+          <div class="component-component-38">Выберите способ получения</div>
+        </section>
+        <section class="component-tt-frame-274frame-274frame">
+          <div class="component-t-frame-274frame-274frame">
+            <div class="component-tt-basic-radio">
+              <div class="component-t-basic-radio">
+                <object
+                  data="/assets/BasicRadio1.svg"
+                  class="component-basic-radio-1"
+                ></object>
+              </div>
+              <div>Почта России</div>
+            </div>
+            <div class="container">
+              <div class="component-t-basic-radio-1">
+                <object
+                  data="/assets/BasicRadio1.svg"
+                  class="component-basic-radio-2"
+                ></object>
+              </div>
+              <div>CDEK</div>
+            </div>
+            <div class="container" >
+              <div class="component-t-basic-radio-2">
+                <label>
+                  <input type="radio" name="delivery" value="Boxberry">
+                  Boxberry
+              </label>
+                
+              </div>
+           
+              <!-- <p id="text">Boxberry</p> -->
+            </div>
+          </div>
+        </section>
+        <footer class="component-rectangle-13">
+          <div class="component-tt-logo-5tt90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle" >
+            <div class="component-t-logo-1">
+              <object
+                data="/assets/Logo1.svg"
+                class="component-logo-1"
+              ></object>
+              <div class="component-component-40">
+                <span
+                  ><p>Мы уже 5 лет делаем индивидуальные чехлы</p>
+                  <p>для покупателей по всей РФ и СНГ</p>
+                  <p>Клиент может заказать индивидуальный дизайн</p></span
+                >
+              </div>
+            </div>
+            <div class="component-t-t90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle" >
+              <div class="component-t-90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle" >
+                <div class="component-component-41">
+                  Подписаться на скидки до 90%
+                </div>
+                <div class="component-rectangle-14">
+                  <div class="component-t-label"><div>E-mail</div></div>
+                  <div class="component-enable-1">Подписаться</div>
+                </div>
+                <div class="component-tt-rectangle-rectangle-rectangle-rectangle-rectangle" >
+                  <div class="component-t-rectangle-rectangle-rectangle-rectangle-rectangle" >
+                    <div class="component-tt-bg-group-group">
+                      <div class="component-t-bg-group-group">
+                        <object
+                          data="/assets/Group3.svg"
+                          class="component-bg-group"
+                        ></object
+                        ><object
+                          data="/assets/Group4.svg"
+                          class="component-group-3"
+                        ></object>
+                      </div>
+                    </div>
+                    <div class="component-rectangle-15">
+                      <div class="component-t-group">
+                        <object
+                          data="/assets/Group5.svg"
+                          class="component-group-4"
+                        ></object>
+                      </div>
+                    </div>
+                    <div class="component-rectangle-16">
+                      <div class="component-t-bg-g2670g">
+                        <object
+                          data="/assets/G4.svg"
+                          class="component-g"
+                        ></object>
+                      </div>
+                      <div class="component-tt-g2666ttbg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g" >
+                        <div class="component-tg">
+                          <object
+                            data="/assets/G5.svg"
+                            class="component-g-1"
+                          ></object>
+                        </div>
+                        <div class="component-tt-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g" >
+                          <div class="component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g" >
+                            <div class="component-t-bg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g" >
+                              <object
+                                data="/assets/G6.svg"
+                                class="component-bg-g"
+                              ></object>
+                              <div class="component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g" >
+                                <div class="component-t-bg-g2690tbg-g2694tbg-g2698g" >
+                                  <object
+                                    data="/assets/G7.svg"
+                                    class="component-bg-g1"
+                                  ></object>
+                                  <div class="component-t-bg-g2694tbg-g2698g">
+                                    <div class="component-t-bg-g2698g">
+                                      <object
+                                        data="/assets/G8.svg"
+                                        class="component-bg-g2"
+                                      ></object
+                                      ><object
+                                        data="/assets/G9.svg"
+                                        class="component-g-2"
+                                      ></object>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="component-rectangle-17">
+                      <div class="component-tt-group">
+                        <div class="component-t-group-1">
+                          <object
+                            data="/assets/Group6.svg"
+                            class="component-group-5"
+                          ></object>
+                        </div>
+                      </div>
+                      <object
+                        data="/assets/Group7.svg"
+                        class="component-group-6"
+                      ></object>
+                    </div>
+                    <div class="component-rectangle-18">
+                      <object
+                        data="/assets/Group8.svg"
+                        class="component-group-7"
+                      ></object>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="component-tt-basic-mail-brand-facebook-vk-11brand-instagram-trectangle" >
+                <div class="component-t-basic-mail-brand-facebook-vk-11brand-instagram" >
+                  <object
+                    data="/assets/BasicMail.svg"
+                    class="component-basic-mail"
+                  ></object
+                  ><object
+                    data="/assets/BrandFacebook.svg"
+                    class="component-brand-facebook"
+                  ></object
+                  ><object
+                    data="/assets/Vk.svg"
+                    class="component-vk"
+                  ></object
+                  ><object
+                    data="/assets/BrandInstagram.svg"
+                    class="component-brand-instagram"
+                  ></object>
+                </div>
+                <div class="component-t-rectangle-5">
+                  <div class="component-rectangle-19">
+                    <div class="component-enable-2">Обратная связь</div>
+                  </div>
+                </div>
+                <div class="component-component-42">
+                  Не хочу искать, сделайте мне дизайн!
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="component-t-rectangle-6">
+            <div class="component-rectangle-20"></div>
+          </div>
+          <div class="component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt" >
+            <div class="component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte" >
+              <div>Apple</div>
+              <div class="component-t-asus"><div>ASUS</div></div>
+              <div class="component-t-honor"><div>Honor</div></div>
+              <div class="component-t-htc"><div>HTC</div></div>
+              <div>Huawei</div>
+              <div class="component-lenovo">Lenovo</div>
+              <div class="component-t-lg">
+                <div class="component-lg">LG</div>
+              </div>
+              <div>Meizu</div>
+              <div class="component-t-nokia"><div>Nokia</div></div>
+              <div class="component-t-samsung"><div>Samsung</div></div>
+              <div class="component-sony">Sony</div>
+              <div class="component-t-xiaomi"><div>Xiaomi</div></div>
+              <div class="component-t-zte"><div>ZTE</div></div>
+            </div>
+            <div class="component-t-t1">
+              <div>Конструктор</div>
+              <div class="component-t-15">
+                <div class="component-component-44">О нас</div>
+              </div>
+            </div>
+          </div>
+          <div class="component-rectangle-21"></div>
+          <div class="component-ttt-icon-outlined-copyright">
+            <div class="component-tt-icon-outlined-copyright">
+              <div class="component-t-icon-outlined-copyright">
+                <object
+                  data="/assets/IconOutlinedCopyright.svg"
+                  class="component-icon-outlined-copyright"
+                ></object>
+                <div>
+                  2014—2021 Интернет-магазин индивидуальных аксессуаров на
+                  смартфоны
+                </div>
+              </div>
+              <div>Политика конфиденциальности</div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+
+<script src="cart.js"></script>
+
+  </body>
+</html>
+

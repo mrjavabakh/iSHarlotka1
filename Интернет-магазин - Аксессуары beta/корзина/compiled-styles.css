@@ -1,0 +1,2234 @@
+@import url("https://fonts.googleapis.com/css2?family=Gilroy:wght@400;500;600;700;800");
+@import url("https://api.fontshare.com/css?f[]=gilroy@400,500,600,700,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open Sans:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=open sans@400,700&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+input {
+  background-image: none;
+  background-color: transparent;
+}
+
+.common-53,
+.component-background,
+.component-background-1,
+.component-background-2,
+.component-background-3 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  z-index: 0;
+}
+
+.common-54,
+.component-bg-g,
+.component-bg-g1,
+.component-bg-g2 {
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+}
+
+.common-55,
+.component-t-11,
+.component-t-rectangle-2 {
+  position: absolute;
+  left: 32px;
+}
+
+.common-56,
+.component-rectangle-6,
+.component-t-bg-mask-group,
+.component-t-bg-group-group,
+.component-t-bg-g2698g {
+  position: relative;
+  z-index: 0;
+}
+
+.common-57,
+.component-t-10,
+.component-bg-mask-group,
+.component-bg-group {
+  position: absolute;
+  z-index: 0;
+}
+
+.common-51,
+.component-background,
+.component-background-2 {
+  background-image: url(/assets/background-2.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.common-52,
+.component-background-1,
+.component-background-3,
+.component-t-bg-g2670g,
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2694tbg-g2698g {
+  background-position: center;
+  background-size: cover;
+}
+
+.common-49,
+.component-frame,
+.component-rectangle,
+.component-rectangle-2,
+.component-rectangle-4 {
+  border-style: solid;
+  border-color: aliceblue;
+}
+
+.common-50,
+.component-rectangle-14,
+.component-rectangle-19 {
+  border-style: solid;
+  border-color: lavender;
+}
+
+.common-29,
+.component-tt-logo-tframe-56t,
+.component-t-rectangle-rectangle-rectangle-rectangle-rectangle,
+.component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt,
+.component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte,
+.component-tt-icon-outlined-copyright,
+.component-t-icon-outlined-copyright {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-30,
+.component-ttt-image-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790t,
+.component-t-image-10ttiphone-12pro,
+.component-tt-rectangle-tt650790t,
+.component-t-rectangle-t650790t,
+.component-tt-image-10tt1iphone-7trectangle-t650790t,
+.component-t-t90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.common-31,
+.component-tt-rectangle-2tframe,
+.component-ttt-rectangle-2rectangle,
+.component-tt-logo-5tt90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.common-32,
+.component-tt-rectangle-rectangle-rectangle-rectangle-rectangle,
+.component-t-rectangle-6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.common-33,
+.component-t-logo,
+.component-tt-group-tttgroup-group,
+.component-tt-group-group,
+.component-t,
+.component-t-iphone,
+.component-t-iphone-12pro,
+.component-tttt-rectangle-tt650790ttrectangle-t650790t,
+.component-tttt-bg-mask-group-07032021tttrectangle-2tframe,
+.component-ttt-bg-mask-group-07032021t,
+.component-tt-bg-mask-group,
+.component-t-11,
+.component-t-rectangle-2,
+.component-tte-mail-rectangle,
+.component-t-label,
+.component-t-bg-group-group,
+.component-t-group,
+.component-t-bg-g2698g,
+.component-t-group-1,
+.component-t-asus,
+.component-t-honor,
+.component-t-htc,
+.component-t-nokia,
+.component-t-samsung,
+.component-t-xiaomi,
+.component-t-zte,
+.component-t-15 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-34,
+.component-t-group-tttgroup-group,
+.component-t-vector-4tttimage-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790tttimage-10tt1iphone-7trectangle-t650790t,
+.component-tt-image-10tttiphone-8timage-10ttiphone-12pro,
+.component-t-2,
+.component-t-3,
+.component-ttt-rectangle-tt650790ttrectangle-t650790t,
+.component-t-t1iphone,
+.component-t-rectangle-3,
+.component-te-mail-rectangle,
+.component-t-rectangle-4,
+.component-tt-rectangle,
+.component-t-90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.common-35,
+.component-t-4,
+.component-t-5,
+.component-t-6,
+.component-t-7,
+.component-t-8,
+.component-t-9,
+.component-t-bg-g2694tbg-g2698g,
+.component-tt-basic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.common-36,
+.component-t-frame,
+.component-frame,
+.component-t-edit-search,
+.component-ttt-group-tttgroup-group-basic-heart_outline-tuser-user_circle-t,
+.component-t-group-group,
+.component-t-t650790t,
+.component-t-1iphone,
+.component-tt-basic-radio-boxberry,
+.component-tt-group,
+.component-rectangle-19,
+.component-t-t1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-37,
+.component-t-user-user_circle-t,
+.component-rectangle,
+.component-rectangle-2,
+.component-rectangle-4,
+.component-t-bg-g2670g,
+.component-t-basic-mail-brand-facebook-vk-11brand-instagram,
+.component-t-lg {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-38,
+.component-t-1,
+.component-ttt-vector-4tttimage-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790tttimage-10tt1iphone-7trectangle-t650790trectangle,
+.component-ttt-icon-outlined-copyright {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-39,
+.component-tt-vector-4tttimage-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790tttimage-10tt1iphone-7trectangle-t650790trectangle,
+.component-ttt-iphone,
+.component-t-image-10tt1iphone {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.common-40,
+.component-t-rectangle-1,
+.component-t-frame-1 {
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-41,
+.component-tt-bg-group-group,
+.component-rectangle-15,
+.component-rectangle-17,
+.component-rectangle-18 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-42,
+.component-ttt-logo-tframe-56ttttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t,
+.component-tt-rectangle-2ttemail-rectangle-2trectangle,
+.component-rectangle-12,
+.component-t-frame-274frame-274frame {
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-43,
+.component-t-rectangle-t,
+.component-t-rectangle-5 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.common-44,
+.component-tt,
+.component-t-12,
+.component-ttt-rectangle-2ttemail-rectangle-2trectangle,
+.component-t-13,
+.component-tttt-rectangle-2rectangle,
+.component-t-14,
+.component-tt-frame-274frame-274frame {
+  display: flex;
+  align-items: flex-end;
+}
+
+.common-45,
+.component-t-bg-mask-group,
+.component-component-29,
+.component-t-vector,
+.component-rectangle-14,
+.component-tt-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2690tbg-g2694tbg-g2698g {
+  display: flex;
+  align-items: center;
+}
+
+.common-46,
+.component-t-rectangle,
+.component-rectangle-6,
+.component-t-10,
+.component-t-basic-radio,
+.component-t-basic-radio-1,
+.component-t-basic-radio-2,
+.component-tg {
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-47,
+.component-tt-basic-radio,
+.container,
+.component-tt-g2666ttbg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  justify-content: center;
+  align-items: center;
+}
+
+.common-48,
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-18,
+.component-component-32,
+.component-component-35,
+.component-component-38 {
+  color: lightsteelblue;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.common-19,
+.component-component-8,
+.component-component-10,
+.component-component-22 {
+  color: dimgray;
+  font-size: 14px;
+}
+
+.common-20,
+.component-i-phone,
+.component-i-phone-12pro,
+.component-i-phone-1 {
+  color: darkgray;
+  font-size: 14px;
+}
+
+.common-21,
+.component-component-12,
+.component-component-17,
+.component-component-24 {
+  color: darkslategray;
+  font-size: 18px;
+}
+
+.common-22,
+.component-component-7,
+.component-component-21 {
+  color: midnightblue;
+  font-weight: 700;
+}
+
+.common-23,
+.component-component-11,
+.component-component-16,
+.component-component-23 {
+  color: dimgray;
+  font-weight: 600;
+}
+
+.common-24,
+.component-enable,
+.component-enable-1 {
+  color: white;
+  font-weight: 600;
+}
+
+.common-25,
+.component-component-13,
+.component-component-15 {
+  color: lightslategray;
+  text-align: right;
+}
+
+.common-26,
+.component-text,
+.component-para-1,
+.component-component-31 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.common-27,
+.component-ttt-rectangle-tt650790ttrectangle-t650790t,
+.component-t-9 {
+  font-size: 14px;
+  text-align: right;
+}
+
+.common-28,
+.component-t-6,
+.component-t-8 {
+  font-weight: 700;
+  text-align: right;
+}
+
+.common-1,
+.component-t-basic-radio,
+.component-t-basic-radio-1,
+.component-t-basic-radio-2 {
+  display: flex;
+  width: 16px;
+  height: 17px;
+}
+
+.common-2,
+.component-tt-g2666ttbg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-tg {
+  display: flex;
+  width: 14px;
+  height: 14px;
+}
+
+.common-3,
+.component-rectangle-1,
+.component-rectangle-3,
+.component-rectangle-5 {
+  width: 11px;
+  height: 2px;
+  background-color: lightsteelblue;
+}
+
+.common-4,
+.component-t-rectangle,
+.component-tt-rectangle-2ttemail-rectangle-2trectangle {
+  display: flex;
+  height: 34px;
+}
+
+.common-5,
+.component-t-10,
+.component-lg {
+  display: flex;
+  height: 19px;
+}
+
+.common-6,
+.component-t-rectangle-1,
+.component-t-frame-1 {
+  display: flex;
+  height: -107px;
+}
+
+.common-7,
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  display: flex;
+  height: 4.8px;
+}
+
+.common-8,
+.component-component,
+.component-rectangle-6 {
+  display: flex;
+  background-color: white;
+}
+
+.common-9,
+.component-rectangle-12,
+.component-tt-basic-radio,
+.container,
+.component-rectangle-13,
+.component-tt-bg-group-group,
+.component-rectangle-15,
+.component-rectangle-16,
+.component-rectangle-17,
+.component-rectangle-18 {
+  display: flex;
+  background-color: whitesmoke;
+}
+
+.common-10,
+.component-ttt-logo-tframe-56ttttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t,
+.component-t-frame-274frame-274frame {
+  display: flex;
+  color: lightslategray;
+}
+
+.common-11,
+.component-edit-search,
+.component-basic-radio,
+.component-basic-radio-1,
+.component-basic-radio-2,
+.component-basic-radio-3 {
+  width: 16px;
+  height: 16px;
+}
+
+.common-12,
+.component-group-1,
+.component-group-2 {
+  width: 5.5px;
+  height: 5.5px;
+}
+
+.common-13,
+.component-basic-heart_outline,
+.component-user-user_circle,
+.component-icon-outlined-copyright {
+  width: 22px;
+  height: 22px;
+}
+
+.common-14,
+.component-image,
+.component-image-1,
+.component-image-2 {
+  width: 70px;
+  height: 70px;
+}
+
+.common-15,
+.component-menu-close_small,
+.component-menu-close_small-1,
+.component-menu-close_small-2,
+.component-basic-mail,
+.component-brand-facebook,
+.component-brand-instagram {
+  width: 24px;
+  height: 24px;
+}
+
+.common-16,
+.component-rectangle-8,
+.component-rectangle-9,
+.component-rectangle-10,
+.component-rectangle-11 {
+  height: 1px;
+  background-color: lightsteelblue;
+}
+
+.common-17,
+.component-rectangle-20,
+.component-rectangle-21 {
+  height: 1px;
+  background-color: lavender;
+}
+
+.component-component {
+  row-gap: 11px;
+  flex-direction: column;
+  padding-top: 35px;
+  width: 100%;
+  font-family: Gilroy, ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 0em;
+}
+
+.component-ttt-logo-tframe-56ttttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t {
+  line-height: normal;
+  row-gap: 12px;
+  column-gap: 189px;
+  padding-left: 135px;
+  padding-right: 135px;
+}
+
+.component-tt-logo-tframe-56t {
+  row-gap: 8.5px;
+  column-gap: 25px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.component-t-logo {
+  padding-bottom: 1px;
+}
+
+.component-logo {
+  width: 338px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.component-t-frame {
+  padding-left: 5px;
+}
+
+.component-frame {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.component-t-edit-search {
+  column-gap: 20px;
+}
+
+.component-edit-search {
+  flex-shrink: 0;
+}
+
+.component-component-2 {
+  padding-left: 10px;
+}
+
+.component-ttt-group-tttgroup-group-basic-heart_outline-tuser-user_circle-t {
+  column-gap: 20px;
+  padding-bottom: 1px;
+}
+
+.component-t-group-tttgroup-group {
+  row-gap: 1.2px;
+}
+
+.component-group {
+  width: 22px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.component-tt-group-group {
+  padding-left: 4.7px;
+  padding-right: 1.8px;
+}
+
+.component-t-group-group {
+  column-gap: 4.5px;
+}
+
+.component-group-1 {
+  flex-shrink: 0;
+}
+
+.component-group-2 {
+  flex-shrink: 0;
+}
+
+.component-basic-heart_outline {
+  flex-shrink: 0;
+}
+
+.component-t-user-user_circle-t {
+  column-gap: 8px;
+  padding-left: 10px;
+}
+
+.component-user-user_circle {
+  flex-shrink: 0;
+}
+
+.component-t {
+  padding-bottom: 1px;
+}
+
+.component-component-4 {
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.component-tt {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 49px;
+}
+
+.component-t-1 {
+  column-gap: 15px;
+  line-height: 1.1;
+}
+
+.component-component-5 {
+  font-size: 30px;
+  color: dimgray;
+  font-weight: 700;
+}
+
+.component-component-6 {
+  font-size: 18px;
+  color: lightslategray;
+}
+
+.component-ttt-vector-4tttimage-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790tttimage-10tt1iphone-7trectangle-t650790trectangle {
+  padding-left: 135px;
+  padding-right: 134px;
+  padding-top: 40px;
+}
+
+.component-tt-vector-4tttimage-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790tttimage-10tt1iphone-7trectangle-t650790trectangle {
+  column-gap: 61px;
+  flex-grow: 1;
+  padding-top: 0.25px;
+}
+
+.component-t-vector-4tttimage-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790tttimage-10tt1iphone-7trectangle-t650790t {
+  row-gap: 35px;
+  flex-grow: 1;
+  max-width: 770px;
+}
+
+.component-vector {
+  align-self: stretch;
+  height: 0.25px;
+  flex-shrink: 0;
+}
+
+.component-ttt-image-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790t {
+  row-gap: 67px;
+  column-gap: 67px;
+  padding-right: 15px;
+  padding-top: 11px;
+}
+
+.component-tt-image-10tttiphone-8timage-10ttiphone-12pro {
+  row-gap: 35px;
+}
+
+.component-t-image-10tttiphone {
+  align-items: flex-start;
+  row-gap: 22px;
+  column-gap: 22px;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.component-image {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  object-fit: cover;
+  object-position: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.1));
+  flex-shrink: 0;
+}
+
+.component-ttt-iphone {
+  column-gap: 4px;
+}
+
+.component-t-2 {
+  row-gap: 7px;
+}
+
+.component-component-7 {
+  line-height: normal;
+}
+
+.component-component-8 {
+  line-height: 20px;
+}
+
+.component-t-iphone {
+  padding-top: 2px;
+}
+
+.component-i-phone {
+  line-height: 1.1;
+}
+
+.component-t-image-10ttiphone-12pro {
+  row-gap: 8.5px;
+  column-gap: 17px;
+}
+
+.component-image-1 {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.1));
+  position: relative;
+  flex-shrink: 0;
+}
+
+.component-background {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.component-background-1 {
+  background-image: url(/assets/background-1.png);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.component-t-3 {
+  row-gap: 7px;
+  padding-left: 5px;
+  text-align: center;
+}
+
+.component-component-9 {
+  color: midnightblue;
+  line-height: normal;
+}
+
+.component-component-10 {
+  line-height: 20px;
+}
+
+.component-t-iphone-12pro {
+  padding-top: 2px;
+}
+
+.component-i-phone-12pro {
+  line-height: 1.1;
+}
+
+.component-tttt-rectangle-tt650790ttrectangle-t650790t {
+  height: 148px;
+}
+
+.component-ttt-rectangle-tt650790ttrectangle-t650790t {
+  margin-bottom: -2px;
+  row-gap: 14px;
+  height: 150px;
+  justify-content: space-between;
+  line-height: normal;
+  flex-shrink: 0;
+}
+
+.component-tt-rectangle-tt650790t {
+  row-gap: 17px;
+  column-gap: 52px;
+  padding-top: 2px;
+}
+
+.component-t-rectangle {
+  text-align: right;
+}
+
+.component-rectangle {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin-bottom: -2px;
+  column-gap: 15px;
+  height: 36px;
+  padding-bottom: 5px;
+  padding-left: 13px;
+  padding-right: 7px;
+  padding-top: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  flex-shrink: 0;
+}
+
+.component-rectangle-1 {
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.component-component-11 {
+  padding-left: 7px;
+}
+
+.component-menu-close_small {
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.component-t-t650790t {
+  column-gap: 76px;
+  text-align: right;
+}
+
+.component-t-4 {
+  row-gap: 4px;
+  font-weight: 700;
+}
+
+.component-component-12 {
+  text-align: right;
+}
+
+.component-component-13 {
+  text-decoration: line-through;
+}
+
+.component-t-5 {
+  row-gap: 10px;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.component-component-14 {
+  color: midnightblue;
+  text-align: right;
+}
+
+.component-t-rectangle-t650790t {
+  row-gap: 18px;
+  column-gap: 52px;
+}
+
+.component-rectangle-2 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  column-gap: 15px;
+  padding-bottom: 5px;
+  padding-left: 13px;
+  padding-right: 7px;
+  padding-top: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  text-align: right;
+}
+
+.component-rectangle-3 {
+  flex-shrink: 0;
+}
+
+.component-component-16 {
+  text-align: left;
+  padding-left: 7px;
+}
+
+.component-menu-close_small-1 {
+  flex-shrink: 0;
+}
+
+.component-t-6 {
+  row-gap: 4px;
+}
+
+.component-component-18 {
+  color: lightslategray;
+  text-decoration: line-through;
+}
+
+.component-t-7 {
+  row-gap: 10px;
+  padding-left: 24px;
+  font-weight: 500;
+  text-decoration: underline;
+  text-align: right;
+}
+
+.component-component-19 {
+  color: midnightblue;
+}
+
+.component-component-20 {
+  color: lightslategray;
+}
+
+.component-tt-image-10tt1iphone-7trectangle-t650790t {
+  row-gap: 21px;
+  column-gap: 76px;
+  padding-right: 15px;
+}
+
+.component-t-image-10tt1iphone {
+  column-gap: 22px;
+}
+
+.component-image-2 {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.1));
+  position: relative;
+  flex-shrink: 0;
+}
+
+.component-background-2 {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.component-background-3 {
+  background-image: url(/assets/background-3.png);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.component-t-t1iphone {
+  row-gap: 7px;
+}
+
+.component-t-1iphone {
+  column-gap: 17px;
+}
+
+.component-component-21 {
+  line-height: normal;
+}
+
+.component-i-phone-1 {
+  line-height: 1.1;
+}
+
+.component-component-22 {
+  line-height: 20px;
+}
+
+.component-t-rectangle-t {
+  align-items: flex-start;
+  column-gap: 52px;
+  padding-left: 45px;
+  line-height: normal;
+}
+
+.component-rectangle-4 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  column-gap: 15px;
+  padding-bottom: 5px;
+  padding-left: 13px;
+  padding-right: 7px;
+  padding-top: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.component-rectangle-5 {
+  flex-shrink: 0;
+}
+
+.component-component-23 {
+  padding-left: 7px;
+}
+
+.component-menu-close_small-2 {
+  flex-shrink: 0;
+}
+
+.component-t-8 {
+  row-gap: 4px;
+}
+
+.component-component-25 {
+  font-size: 14px;
+  color: lightslategray;
+  text-decoration: line-through;
+}
+
+.component-t-9 {
+  row-gap: 10px;
+  line-height: normal;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.component-component-26 {
+  color: midnightblue;
+}
+
+.component-component-27 {
+  color: lightslategray;
+}
+
+.component-rectangle-6 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  width: 340px;
+  padding-bottom: 78px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  filter: drop-shadow(4px 4px 7.5px rgba(0, 0, 0, 0.04));
+  flex-shrink: 0;
+}
+
+.component-tttt-bg-mask-group-07032021tttrectangle-2tframe {
+  width: 348px;
+  z-index: 1;
+}
+
+.component-ttt-bg-mask-group-07032021t {
+  z-index: 2;
+  position: relative;
+}
+
+.component-t-10 {
+  width: 77px;
+  left: 36px;
+  top: calc(50% + -9.5px + 10px);
+  flex-shrink: 0;
+}
+
+.component-component-28 {
+  color: darkgray;
+  line-height: normal;
+}
+
+.component-tt-bg-mask-group {
+  padding-bottom: 198px;
+  padding-left: 36px;
+  padding-right: 36px;
+  padding-top: 13px;
+  z-index: 2;
+}
+
+.component-t-bg-mask-group {
+  width: 276px;
+  padding-right: 13px;
+}
+
+.component-bg-mask-group {
+  height: 281px;
+  bottom: -198px;
+  left: -36px;
+  right: -36px;
+}
+
+.component-component-29 {
+  flex-grow: 1;
+  height: 70px;
+  z-index: 2;
+  font-family: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  color: darkgray;
+  line-height: 35px;
+}
+
+.component-tt-rectangle-2tframe {
+  column-gap: 16px;
+  z-index: 1;
+}
+
+.component-rectangle-7 {
+  background-color: silver;
+  width: 157px;
+  height: 1px;
+  flex-shrink: 0;
+}
+
+.component-enable {
+  font-size: 14px;
+  line-height: 20px;
+  background-color: lightsteelblue;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.component-t-11 {
+  width: 174px;
+  height: 29px;
+  z-index: 2;
+  top: calc(50% + -14.5px + 44px);
+  flex-shrink: 0;
+}
+
+.component-component-30 {
+  font-size: 24px;
+  color: dimgray;
+  line-height: normal;
+}
+
+.component-t-rectangle-2 {
+  height: 60px;
+  bottom: 32px;
+  right: 32px;
+  flex-shrink: 0;
+}
+
+.component-component-31 {
+  font-family: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  line-height: normal;
+  color: white;
+  filter: drop-shadow(4px 4px 5px rgba(72, 212, 128, 0.2));
+  background-color: lightgreen;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 16px;
+  padding-bottom: 17px;
+}
+
+.component-t-vector {
+  padding-left: 135px;
+  padding-right: 535px;
+}
+
+.component-vector-1 {
+  flex-grow: 1;
+  height: 0.5px;
+}
+
+.component-t-12 {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 39px;
+}
+
+.component-component-32 {
+  line-height: normal;
+}
+
+.component-ttt-rectangle-2ttemail-rectangle-2trectangle {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 53px;
+}
+
+.component-tt-rectangle-2ttemail-rectangle-2trectangle {
+  row-gap: 17px;
+  column-gap: 40px;
+  color: lightsteelblue;
+  line-height: normal;
+}
+
+.component-t-rectangle-3 {
+  row-gap: 13px;
+}
+
+.component-rectangle-8 {
+  width: 230px;
+  flex-shrink: 0;
+}
+
+.component-tte-mail-rectangle {
+  margin-top: 0.5px;
+  height: 35px;
+  padding-bottom: 2px;
+}
+
+.component-te-mail-rectangle {
+  row-gap: 13px;
+}
+
+.component-rectangle-9 {
+  width: 220px;
+  flex-shrink: 0;
+}
+
+.component-t-rectangle-4 {
+  row-gap: 13px;
+}
+
+.component-rectangle-10 {
+  width: 200px;
+  flex-shrink: 0;
+}
+
+.component-t-13 {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 49px;
+}
+
+.component-component-35 {
+  line-height: normal;
+}
+
+.component-tttt-rectangle-2rectangle {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 15px;
+}
+
+.component-ttt-rectangle-2rectangle {
+  row-gap: 17px;
+  column-gap: 30px;
+}
+
+.component-tt-rectangle {
+  row-gap: 13px;
+}
+
+.component-component-36 {
+  line-height: normal;
+  color: lightsteelblue;
+}
+
+.component-rectangle-11 {
+  width: 420px;
+  flex-shrink: 0;
+}
+
+.component-rectangle-12 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  row-gap: 8px;
+  column-gap: 20px;
+  width: 330px;
+  padding-bottom: 16px;
+  padding-left: 27px;
+  padding-right: 28px;
+  padding-top: 16px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  flex-shrink: 0;
+}
+
+.component-basic-radio {
+  flex-shrink: 0;
+}
+
+.component-component-37 {
+  width: 239px;
+  color: lightslategray;
+  line-height: 20px;
+  font-weight: 500;
+  flex-shrink: 0;
+}
+
+.component-t-14 {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 54px;
+}
+
+.component-component-38 {
+  line-height: normal;
+}
+
+.component-tt-frame-274frame-274frame {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 19px;
+}
+
+.component-t-frame-274frame-274frame {
+  row-gap: 15px;
+  column-gap: 15px;
+  line-height: normal;
+  font-weight: 600;
+}
+
+.component-tt-basic-radio {
+  column-gap: 13px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.component-t-basic-radio {
+  padding-bottom: 1px;
+  flex-shrink: 0;
+}
+
+.component-basic-radio-1 {
+  flex-shrink: 0;
+}
+
+.container {
+  column-gap: 13px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.container input {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+.component-t-basic-radio-1 {
+  padding-bottom: 1px;
+  flex-shrink: 0;
+}
+
+.component-basic-radio-2 {
+  flex-shrink: 0;
+}
+
+.component-tt-basic-radio-boxberry {
+  column-gap: 13px;
+  background-color: #f5f5f566;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.component-t-basic-radio-2 {
+  padding-bottom: 1px;
+  flex-shrink: 0;
+}
+
+.component-basic-radio-3 {
+  flex-shrink: 0;
+}
+
+.component-rectangle-13 {
+  color: lightslategray;
+  flex-direction: column;
+  row-gap: 19px;
+  justify-content: flex-end;
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 65px;
+  padding-bottom: 30px;
+  margin-top: 68px;
+}
+
+.component-tt-logo-5tt90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  row-gap: 69px;
+  column-gap: 107px;
+}
+
+.component-t-logo-1 {
+  row-gap: 37px;
+  flex-direction: column;
+  width: 314px;
+  display: flex;
+  flex-shrink: 0;
+}
+
+.component-logo-1 {
+  width: 275px;
+  height: 37px;
+  flex-shrink: 0;
+}
+
+.component-component-40 {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.component-t-t90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  row-gap: 69px;
+  column-gap: 136px;
+}
+
+.component-t-90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle {
+  row-gap: 12px;
+  width: 329px;
+  flex-shrink: 0;
+}
+
+/* Общие стили */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Header */
+header {
+  background: #fff;
+  padding: 20px 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+nav a {
+  color: #6c757d;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+nav .login {
+  font-weight: bold;
+  color: #007bff;
+}
+
+/* Cart Section */
+.cart-section h1 {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+.cart-items {
+  list-style: none;
+  padding: 0;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 15px;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+}
+
+.cart-item-img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.item-details {
+  flex: 1;
+}
+
+.item-details h2 {
+  font-size: 16px;
+  margin: 0;
+}
+
+.item-details p {
+  margin: 5px 0;
+  color: #6c757d;
+}
+
+.item-quantity {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-btn {
+  background: #e9ecef;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.quantity-input {
+  width: 50px;
+  text-align: center;
+  margin: 0 10px;
+}
+
+.item-price {
+  margin-left: 20px;
+  text-align: right;
+}
+
+.item-price p {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.remove {
+  color: #dc3545;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+/* Summary Section */
+.cart-summary {
+  margin-top: 30px;
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+}
+
+.delivery-info {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.promo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.promo input {
+  flex: 1;
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+
+.promo button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.checkout-btn {
+  width: 100%;
+  background: #28a745;
+  color: white;
+  border: none;
+  padding: 15px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Footer */
+footer {
+  background: #f8f9fa;
+  padding: 20px 0;
+  text-align: center;
+  border-top: 1px solid #dee2e6;
+}
+
+footer p {
+  color: #6c757d;
+  font-size: 14px;
+}
+
+body { font-family: Arial, sans-serif; }
+      .cart { max-width: 600px; margin: 20px auto; }
+      .cart ul { list-style: none; padding: 0; }
+      .cart li { display: flex; justify-content: space-between; margin-bottom: 10px; }
+      .total { font-weight: bold; margin-top: 20px; text-align: right; }
+      .quantity-btn { cursor: pointer; }
+
+footer form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+footer input {
+  padding: 8px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+footer button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.component-component-41 {
+  line-height: normal;
+}
+
+.component-rectangle-14 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  row-gap: 11px;
+  column-gap: 32px;
+  align-self: stretch;
+  padding-bottom: 8px;
+  padding-left: 17px;
+  padding-right: 8px;
+  padding-top: 8px;
+  justify-content: space-between;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  flex-wrap: wrap;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.component-t-label {
+  padding-bottom: 2px;
+}
+
+.component-enable-1 {
+  text-align: center;
+  background-color: midnightblue;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.component-tt-rectangle-rectangle-rectangle-rectangle-rectangle {
+  align-items: center;
+  padding-left: 1px;
+  padding-top: 15px;
+}
+
+.component-t-rectangle-rectangle-rectangle-rectangle-rectangle {
+  row-gap: 16px;
+  column-gap: 20px;
+}
+
+.component-tt-bg-group-group {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  padding-left: 11.3px;
+  padding-right: 11.3px;
+  padding-top: 13.8px;
+  padding-bottom: 13.8px;
+}
+
+.component-t-bg-group-group {
+  padding-bottom: 0.81px;
+}
+
+.component-bg-group {
+  width: 32px;
+  height: 20px;
+  bottom: -7.82px;
+  left: -2.55px;
+  right: -2.54px;
+  top: -7.82px;
+  flex-shrink: 0;
+}
+
+.component-group-3 {
+  width: 27px;
+  height: 3.5px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-rectangle-15 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 6.6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 6.6px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-t-group {
+  padding-top: 0.88px;
+}
+
+.component-group-4 {
+  width: 40px;
+  height: 18px;
+  flex-shrink: 0;
+}
+
+.component-rectangle-16 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  align-items: center;
+  column-gap: 3.7px;
+  padding-bottom: 8.7px;
+  padding-left: 7px;
+  padding-right: 20px;
+  padding-top: 9.5px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-t-bg-g2670g {
+  height: 6.4px;
+  padding-left: 4.5px;
+  padding-top: 1.7px;
+  z-index: 0;
+  background-image: url(/assets/G.svg);
+}
+
+.component-g {
+  width: 0.49px;
+  height: 4.7px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-tt-g2666ttbg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  z-index: 0;
+  flex-shrink: 0;
+}
+
+.component-tg {
+  padding-bottom: 0.77px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-g-1 {
+  margin-bottom: -23.84px;
+  width: 14px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.component-tt-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  width: 0px;
+  padding-top: 1.8px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  margin-left: -8.75px;
+  width: 4.6px;
+  padding-bottom: 0.1px;
+  background-image: url(/assets/G1.svg);
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  width: 0.21px;
+  height: 4.7px;
+  padding-left: 0.21px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.component-bg-g {
+  width: 4.6px;
+  height: 4.7px;
+  right: -4.63px;
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  margin-top: 0.05px;
+  margin-right: -9.25px;
+  width: 4.2px;
+  padding-left: 4.2px;
+  background-image: url(/assets/G2.svg);
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2690tbg-g2694tbg-g2698g {
+  margin-left: -0.19px;
+  width: 0.19px;
+  padding-bottom: 0.1px;
+  padding-left: 0.19px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.component-bg-g1 {
+  width: 4.2px;
+  height: 4.8px;
+  right: -4.16px;
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2694tbg-g2698g {
+  margin-right: -7.61px;
+  width: 3.4px;
+  padding-bottom: 3.9px;
+  padding-left: 3.4px;
+  padding-top: 0.23px;
+  background-image: url(/assets/G3.svg);
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2698g {
+  margin-left: 0.77px;
+  width: 0.77px;
+  height: 0.61px;
+  padding-left: 0.4px;
+  flex-shrink: 0;
+}
+
+.component-bg-g2 {
+  width: 0px;
+  height: 0.61px;
+  z-index: 0;
+  left: 0.77px;
+  right: 0px;
+  flex-shrink: 0;
+}
+
+.component-g-2 {
+  margin-left: 1.4px;
+  margin-bottom: -2.47px;
+  width: 1.1px;
+  height: 1.1px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-rectangle-17 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  row-gap: 3.4px;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 4px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-t-group-1 {
+  width: 12px;
+  height: 13px;
+  padding-left: 1.1px;
+  flex-shrink: 0;
+}
+
+.component-group-5 {
+  width: 11px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.component-group-6 {
+  width: 27px;
+  height: 7.1px;
+  flex-shrink: 0;
+}
+
+.component-rectangle-18 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 10px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 10px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-group-7 {
+  width: 38px;
+  height: 11px;
+  flex-shrink: 0;
+}
+
+.component-tt-basic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  row-gap: 17px;
+  text-align: center;
+}
+
+.component-t-basic-mail-brand-facebook-vk-11brand-instagram {
+  column-gap: 18px;
+}
+
+.component-basic-mail {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-brand-facebook {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-vk {
+  width: 27px;
+  height: 24px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-brand-instagram {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-t-rectangle-5 {
+  align-items: flex-end;
+  padding-top: 12px;
+}
+
+.component-rectangle-19 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding-bottom: 13px;
+  padding-left: 26px;
+  padding-right: 27px;
+  padding-top: 13px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  text-align: center;
+}
+
+.component-enable-2 {
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.component-component-42 {
+  line-height: normal;
+}
+
+.component-t-rectangle-6 {
+  padding-top: 26px;
+}
+
+.component-rectangle-20 {
+  flex-shrink: 0;
+}
+
+.component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt {
+  row-gap: 9.5px;
+  column-gap: 110px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 2px;
+  line-height: normal;
+}
+
+.component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte {
+  row-gap: 9.5px;
+  column-gap: 23px;
+  flex-grow: 1;
+}
+
+.component-t-asus {
+  padding-left: 2px;
+}
+
+.component-t-honor {
+  padding-left: 2px;
+}
+
+.component-t-htc {
+  padding-left: 2px;
+}
+
+.component-lenovo {
+  padding-left: 4px;
+}
+
+.component-t-lg {
+  padding-left: 4px;
+}
+
+.component-lg {
+  width: 20px;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.component-t-nokia {
+  padding-left: 3px;
+}
+
+.component-t-samsung {
+  padding-left: 3px;
+}
+
+.component-sony {
+  padding-left: 5px;
+}
+
+.component-t-xiaomi {
+  padding-left: 2px;
+}
+
+.component-t-zte {
+  padding-left: 3px;
+}
+
+.component-t-t1 {
+  column-gap: 28px;
+}
+
+.component-t-15 {
+  padding-bottom: 1px;
+}
+
+.component-component-44 {
+  line-height: 1;
+}
+
+.component-rectangle-21 {
+  flex-shrink: 0;
+}
+
+.component-ttt-icon-outlined-copyright {
+  padding-right: 16px;
+  padding-top: 4px;
+}
+
+.component-tt-icon-outlined-copyright {
+  row-gap: 10px;
+  column-gap: 217px;
+  flex-grow: 1;
+  font-size: 18px;
+  line-height: 1.1;
+}
+
+.component-t-icon-outlined-copyright {
+  row-gap: 10px;
+  column-gap: 13px;
+}
+
+.component-icon-outlined-copyright {
+  flex-shrink: 0;
+}
+@media (min-width: 1430px) {
+  .component-ttt-logo-tframe-56ttttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t {
+    flex-wrap: nowrap;
+  }
+  .component-tt-logo-tframe-56t {
+    flex-wrap: nowrap;
+  }
+  .component-ttt-image-10tttiphone-8timage-10ttiphone-12pro-ttttrectangle-tt650790ttrectangle-t650790t {
+    flex-wrap: nowrap;
+  }
+  .component-t-image-10tttiphone {
+    flex-wrap: nowrap;
+  }
+  .component-t-image-10ttiphone-12pro {
+    flex-wrap: nowrap;
+  }
+  .component-tt-rectangle-tt650790t {
+    flex-wrap: nowrap;
+  }
+  .component-t-rectangle-t650790t {
+    flex-wrap: nowrap;
+  }
+  .component-tt-image-10tt1iphone-7trectangle-t650790t {
+    flex-wrap: nowrap;
+  }
+  .component-tt-rectangle-2tframe {
+    flex-wrap: nowrap;
+  }
+  .component-tt-rectangle-2ttemail-rectangle-2trectangle {
+    flex-wrap: nowrap;
+  }
+  .component-ttt-rectangle-2rectangle {
+    flex-wrap: nowrap;
+  }
+  .component-rectangle-12 {
+    flex-wrap: nowrap;
+  }
+  .component-t-frame-274frame-274frame {
+    flex-wrap: nowrap;
+  }
+  .component-tt-logo-5tt90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+    flex-wrap: nowrap;
+  }
+  .component-t-t90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+    flex-wrap: nowrap;
+  }
+  .component-rectangle-14 {
+    flex-wrap: nowrap;
+  }
+  .component-t-rectangle-rectangle-rectangle-rectangle-rectangle {
+    flex-wrap: nowrap;
+  }
+  .component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt {
+    flex-wrap: nowrap;
+  }
+  .component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte {
+    flex-wrap: nowrap;
+  }
+  .component-tt-icon-outlined-copyright {
+    flex-wrap: nowrap;
+  }
+  .component-t-icon-outlined-copyright {
+    flex-wrap: nowrap;
+  }
+}

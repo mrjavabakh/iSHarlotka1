@@ -1,0 +1,93 @@
+/* Затенение заднего фона */
+.modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Модальное окно */
+  .modal-window {
+    position: relative;
+    background: #fff;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  /* Кнопка закрытия */
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  /* Заголовок модального окна */
+  .modal-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-family: "Open Sans";
+  }
+  
+  /* Текст адреса */
+  .modal-address {
+    color: var(--gray-dark, #606675);
+    font-family: Gilroy;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+  }
+  
+  /* Поле для ввода текста */
+  .modal-input {
+display: flex;
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 21px;
+    padding: 11px;
+    padding-left: 0;
+    color: var(--light-color);
+    border-bottom: 1px solid var(--text-color);;
+    margin-bottom: 26px;
+    border-bottom: 1px solid #606675;
+    font-family: ;
+    bor
+
+  }
+  
+  /* Кнопка "Сохранить адрес" */
+  .modal-save-button {
+background-color: #48D480;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: flex-start;
+    font: optional;
+  }
+  
+  .modal-save-button:hover {
+    background-color: #218838;
+  }
+  

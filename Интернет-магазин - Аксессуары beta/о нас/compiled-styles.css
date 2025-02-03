@@ -1,0 +1,1054 @@
+@import url("https://fonts.googleapis.com/css2?family=Gilroy:wght@400;500;600;700");
+@import url("https://api.fontshare.com/css?f[]=gilroy@400,500,600,700&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+input {
+  background-image: none;
+  background-color: transparent;
+}
+
+.common-24,
+.component-bg-g,
+.component-bg-g1,
+.component-bg-g2 {
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+}
+
+.common-25,
+.component-t-bg-group-group,
+.component-t-bg-g2698g {
+  position: relative;
+  z-index: 0;
+}
+
+.common-23,
+.component-t-bg-g2670g,
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2694tbg-g2698g {
+  background-position: center;
+  background-size: cover;
+}
+
+.common-22,
+.component-rectangle-1,
+.component-rectangle-6 {
+  border-style: solid;
+  border-color: lavender;
+}
+
+.common-10,
+.component-ttt-logo-tframe-56tttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t,
+.component-tt-logo-tframe-56t,
+.component-t-misc-dot_03_m,
+.component-t-misc-dot_03_m-1,
+.component-t-rectangle-rectangle-rectangle-rectangle-rectangle,
+.component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt,
+.component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte,
+.component-tt-icon-outlined-copyright,
+.component-t-icon-outlined-copyright {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-11,
+.component-tt-rectangle-rectangle-rectangle-rectangle-rectangle,
+.component-t-rectangle-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.common-12,
+.component-t-logo,
+.component-tt-group-group,
+.component-t,
+.component-t-bg-group-group,
+.component-t-group,
+.component-t-bg-g2698g,
+.component-t-group-1,
+.component-t-asus,
+.component-t-honor,
+.component-t-htc,
+.component-t-nokia,
+.component-t-samsung,
+.component-t-xiaomi,
+.component-t-zte,
+.component-t-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.common-13,
+.component-t-group-tttgroup-group,
+.component-t-90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.common-14,
+.component-t-bg-g2694tbg-g2698g,
+.component-tt-basic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.common-15,
+.component-t-frame,
+.component-frame,
+.component-t-edit-search,
+.component-tt-group-tttgroup-group-basic-heart_outline-tuser-user_circle-t,
+.component-t-group-group,
+.component-tt-group,
+.component-rectangle-6,
+.component-tt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-16,
+.component-t-user-user_circle-t,
+.component-t-bg-g2670g,
+.component-t-basic-mail-brand-facebook-vk-11brand-instagram,
+.component-t-lg {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-17,
+.component-tt-logo-5tt90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle,
+.component-ttt-icon-outlined-copyright {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-18,
+.component-tt-bg-group-group,
+.component-rectangle-2,
+.component-rectangle-4,
+.component-rectangle-5 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-19,
+.component-t-iphone,
+.component-tt-misc-dot_03_m,
+.component-t-image,
+.component-t-rectangle {
+  display: flex;
+  align-items: flex-end;
+}
+
+.common-20,
+.component-tt-misc-dot_03_m-1,
+.component-rectangle-1,
+.component-tt-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2690tbg-g2694tbg-g2698g,
+.component-lg {
+  display: flex;
+  align-items: center;
+}
+
+.common-21,
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-9,
+.component-component-5,
+.component-component-6 {
+  color: dimgray;
+  font-weight: 500;
+}
+
+.common-1,
+.component-tt-g2666ttbg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-tg {
+  display: flex;
+  width: 14px;
+  height: 14px;
+}
+
+.common-2,
+.component-component,
+.component-label {
+  display: flex;
+  width: 100%;
+}
+
+.common-3,
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  display: flex;
+  height: 4.8px;
+}
+
+.common-4,
+.component-rectangle,
+.component-tt-bg-group-group,
+.component-rectangle-2,
+.component-rectangle-3,
+.component-rectangle-4,
+.component-rectangle-5 {
+  display: flex;
+  background-color: whitesmoke;
+}
+
+.common-5,
+.component-group-1,
+.component-group-2 {
+  width: 5.5px;
+  height: 5.5px;
+}
+
+.common-6,
+.component-basic-heart_outline,
+.component-user-user_circle,
+.component-icon-outlined-copyright {
+  width: 22px;
+  height: 22px;
+}
+
+.common-7,
+.component-misc-dot_03_m,
+.component-misc-dot_03_m-1,
+.component-basic-mail,
+.component-brand-facebook,
+.component-brand-instagram {
+  width: 24px;
+  height: 24px;
+}
+
+.common-8,
+.component-rectangle-7,
+.component-rectangle-8 {
+  height: 1px;
+  background-color: lavender;
+}
+
+.component-component {
+  background-color: white;
+  row-gap: 6px;
+  flex-direction: column;
+  padding-top: 35px;
+  font-family: Gilroy, ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 0em;
+}
+
+.component-ttt-logo-tframe-56tttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t {
+  line-height: normal;
+  color: lightslategray;
+  row-gap: 12px;
+  column-gap: 189px;
+  padding-left: 135px;
+  padding-right: 135px;
+}
+
+.component-tt-logo-tframe-56t {
+  row-gap: 8.5px;
+  column-gap: 25px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.component-t-logo {
+  padding-bottom: 1px;
+}
+
+.component-logo {
+  width: 338px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.component-t-frame {
+  padding-left: 5px;
+}
+
+.component-frame {
+  border-style: solid;
+  border-color: aliceblue;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.component-t-edit-search {
+  column-gap: 20px;
+}
+
+.component-edit-search {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+
+.component-component-2 {
+  padding-left: 10px;
+}
+
+.component-tt-group-tttgroup-group-basic-heart_outline-tuser-user_circle-t {
+  column-gap: 20px;
+  padding-bottom: 1px;
+}
+
+.component-t-group-tttgroup-group {
+  row-gap: 1.2px;
+}
+
+.component-group {
+  width: 22px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.component-tt-group-group {
+  padding-left: 4.7px;
+  padding-right: 1.8px;
+}
+
+.component-t-group-group {
+  column-gap: 4.5px;
+}
+
+.component-group-1 {
+  flex-shrink: 0;
+}
+
+.component-group-2 {
+  flex-shrink: 0;
+}
+
+.component-basic-heart_outline {
+  flex-shrink: 0;
+}
+
+.component-t-user-user_circle-t {
+  column-gap: 8px;
+  padding-left: 10px;
+}
+
+.component-user-user_circle {
+  flex-shrink: 0;
+}
+
+.component-t {
+  padding-bottom: 1px;
+}
+
+.component-component-4 {
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.component-t-iphone {
+  padding-left: 136px;
+  padding-right: 136px;
+  padding-top: 54px;
+}
+
+.component-iphone {
+  font-size: 30px;
+  line-height: normal;
+  font-weight: 700;
+}
+
+.component-isharlotka-2014isharlotka {
+  line-height: 25px;
+  color: dimgray;
+  padding-left: 136px;
+  padding-right: 482px;
+  padding-top: 39px;
+}
+
+.component-text {
+  font-weight: 700;
+}
+
+.component-spacer {
+  height: 25px;
+}
+
+.component-spacer-1 {
+  height: 25px;
+}
+
+.component-text-1 {
+  font-weight: 500;
+  color: dodgerblue;
+}
+
+.component-spacer-2 {
+  height: 25px;
+}
+
+.component-spacer-3 {
+  height: 25px;
+}
+
+.component-tt-misc-dot_03_m {
+  padding-left: 136px;
+  padding-right: 136px;
+  padding-top: 24px;
+}
+
+.component-t-misc-dot_03_m {
+  row-gap: 6px;
+  column-gap: 6px;
+}
+
+.component-misc-dot_03_m {
+  flex-shrink: 0;
+}
+
+.component-component-5 {
+  line-height: 25px;
+}
+
+.component-tt-misc-dot_03_m-1 {
+  padding-left: 136px;
+  padding-right: 136px;
+}
+
+.component-t-misc-dot_03_m-1 {
+  row-gap: 6px;
+  column-gap: 6px;
+}
+
+.component-misc-dot_03_m-1 {
+  flex-shrink: 0;
+}
+
+.component-component-6 {
+  line-height: 25px;
+}
+
+.component-t-image {
+  padding-left: 136px;
+  padding-right: 136px;
+  padding-top: 44px;
+}
+
+.component-image {
+  object-fit: cover;
+  object-position: center;
+  width: 769px;
+  height: 513px;
+  flex-shrink: 0;
+}
+
+.component-rectangle {
+  color: lightslategray;
+  flex-direction: column;
+  row-gap: 19px;
+  justify-content: flex-end;
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 65px;
+  padding-bottom: 30px;
+  margin-top: 75px;
+}
+
+.component-tt-logo-5tt90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  row-gap: 69px;
+  column-gap: 107px;
+  flex-wrap: wrap;
+}
+
+.component-t-logo-1 {
+  row-gap: 37px;
+  flex-direction: column;
+  width: 314px;
+  display: flex;
+  flex-shrink: 0;
+}
+
+.component-logo-1 {
+  width: 275px;
+  height: 37px;
+  flex-shrink: 0;
+}
+
+.component-component-7 {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.component-t-t90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  align-items: flex-start;
+  row-gap: 69px;
+  column-gap: 136px;
+  justify-content: center;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.component-t-90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle {
+  row-gap: 12px;
+  width: 329px;
+  flex-shrink: 0;
+}
+
+.component-component-8 {
+  line-height: normal;
+}
+
+.component-rectangle-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  row-gap: 11px;
+  column-gap: 32px;
+  align-self: stretch;
+  padding-bottom: 8px;
+  padding-left: 17px;
+  padding-right: 8px;
+  padding-top: 8px;
+  justify-content: space-between;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  flex-wrap: wrap;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.component-t-label {
+  padding-bottom: 2px;
+  width: 42px;
+}
+
+.component-label {
+  outline: none;
+  min-width: 0px;
+}
+
+.component-enable {
+  font-weight: 600;
+  color: white;
+  background-color: midnightblue;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.component-tt-rectangle-rectangle-rectangle-rectangle-rectangle {
+  align-items: center;
+  padding-left: 1px;
+  padding-top: 15px;
+}
+
+.component-t-rectangle-rectangle-rectangle-rectangle-rectangle {
+  row-gap: 16px;
+  column-gap: 20px;
+}
+
+.component-tt-bg-group-group {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  padding-left: 11.3px;
+  padding-right: 11.3px;
+  padding-top: 13.8px;
+  padding-bottom: 13.8px;
+  cursor: pointer;
+}
+
+.component-t-bg-group-group {
+  padding-bottom: 0.81px;
+}
+
+.component-bg-group {
+  width: 32px;
+  height: 20px;
+  z-index: 0;
+  bottom: -7.82px;
+  left: -2.55px;
+  right: -2.54px;
+  top: -7.82px;
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.component-group-3 {
+  width: 27px;
+  height: 3.5px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-rectangle-2 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 6.6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 6.6px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-t-group {
+  padding-top: 0.88px;
+}
+
+.component-group-4 {
+  width: 40px;
+  height: 18px;
+  flex-shrink: 0;
+}
+
+.component-rectangle-3 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  align-items: center;
+  column-gap: 3.7px;
+  padding-bottom: 8.7px;
+  padding-left: 7px;
+  padding-right: 20px;
+  padding-top: 9.5px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-t-bg-g2670g {
+  height: 6.4px;
+  padding-left: 4.5px;
+  padding-top: 1.7px;
+  z-index: 0;
+  background-image: url(/assets/G.svg);
+cursor: pointer;
+}
+
+.component-g {
+  width: 0.49px;
+  height: 4.7px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-tt-g2666ttbg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+  flex-shrink: 0;
+}
+
+.component-tg {
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 0.77px;
+  z-index: 2;
+  flex-shrink: 0;
+cursor: pointer;
+}
+
+.component-g-1 {
+  margin-bottom: -23.84px;
+  width: 14px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.component-tt-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  width: 0px;
+  padding-top: 1.8px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  margin-left: -8.75px;
+  width: 4.6px;
+  padding-bottom: 0.1px;
+  background-image: url(/assets/G1.svg);
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  width: 0.21px;
+  height: 4.7px;
+  padding-left: 0.21px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.component-bg-g {
+  width: 4.6px;
+  height: 4.7px;
+  right: -4.63px;
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  margin-top: 0.05px;
+  margin-right: -9.25px;
+  width: 4.2px;
+  padding-left: 4.2px;
+  background-image: url(/assets/G2.svg);
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2690tbg-g2694tbg-g2698g {
+  margin-left: -0.19px;
+  width: 0.19px;
+  padding-bottom: 0.1px;
+  padding-left: 0.19px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.component-bg-g1 {
+  width: 4.2px;
+  height: 4.8px;
+  right: -4.16px;
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2694tbg-g2698g {
+  margin-right: -7.61px;
+  width: 3.4px;
+  padding-bottom: 3.9px;
+  padding-left: 3.4px;
+  padding-top: 0.23px;
+  background-image: url(/assets/G3.svg);
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2698g {
+  margin-left: 0.77px;
+  width: 0.77px;
+  height: 0.61px;
+  padding-left: 0.4px;
+  flex-shrink: 0;
+}
+
+.component-bg-g2 {
+  width: 0px;
+  height: 0.61px;
+  z-index: 0;
+  left: 0.77px;
+  right: 0px;
+  flex-shrink: 0;
+}
+
+.component-g-2 {
+  margin-left: 1.4px;
+  margin-bottom: -2.47px;
+  width: 1.1px;
+  height: 1.1px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-rectangle-4 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  row-gap: 3.4px;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 4px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-t-group-1 {
+  width: 12px;
+  height: 13px;
+  padding-left: 1.1px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.component-group-5 {
+  width: 11px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.component-group-6 {
+  width: 27px;
+  height: 7.1px;
+  flex-shrink: 0;
+}
+
+.component-rectangle-5 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 10px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 10px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-group-7 {
+  width: 38px;
+  height: 11px;
+  flex-shrink: 0;
+}
+
+.component-tt-basic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  row-gap: 17px;
+  text-align: center;
+}
+
+.component-t-basic-mail-brand-facebook-vk-11brand-instagram {
+  column-gap: 18px;
+}
+
+.component-basic-mail {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-brand-facebook {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-vk {
+  width: 27px;
+  height: 24px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-brand-instagram {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-t-rectangle {
+  padding-top: 12px;
+  justify-content: flex-end;
+}
+
+.component-rectangle-6 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding-bottom: 13px;
+  padding-left: 26px;
+  padding-right: 27px;
+  padding-top: 13px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  text-align: center;
+}
+
+.component-enable-1 {
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.component-component-9 {
+  line-height: normal;
+}
+
+.component-t-rectangle-1 {
+  padding-top: 26px;
+}
+
+.component-rectangle-7 {
+  flex-shrink: 0;
+}
+
+.component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt {
+  row-gap: 9.5px;
+  column-gap: 110px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 2px;
+  line-height: normal;
+}
+
+.component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte {
+  row-gap: 9.5px;
+  column-gap: 23px;
+  flex-grow: 1;
+}
+
+.component-t-asus {
+  padding-left: 2px;
+}
+
+.component-t-honor {
+  padding-left: 2px;
+}
+
+.component-t-htc {
+  padding-left: 2px;
+}
+
+.component-lenovo {
+  padding-left: 4px;
+}
+
+.component-t-lg {
+  padding-left: 4px;
+}
+
+.component-lg {
+  width: 20px;
+  height: 19px;
+  flex-shrink: 0;
+}
+
+.component-t-nokia {
+  padding-left: 3px;
+}
+
+.component-t-samsung {
+  padding-left: 3px;
+}
+
+.component-sony {
+  padding-left: 5px;
+}
+
+.component-t-xiaomi {
+  padding-left: 2px;
+}
+
+.component-t-zte {
+  padding-left: 3px;
+}
+
+.component-tt {
+  column-gap: 28px;
+}
+
+.component-t-1 {
+  padding-bottom: 1px;
+}
+
+.component-component-11 {
+  line-height: 1;
+}
+
+.component-rectangle-8 {
+  flex-shrink: 0;
+}
+
+.component-ttt-icon-outlined-copyright {
+  padding-right: 16px;
+  padding-top: 4px;
+}
+
+.component-tt-icon-outlined-copyright {
+  row-gap: 10px;
+  column-gap: 217px;
+  flex-grow: 1;
+  font-size: 18px;
+  line-height: 1.1;
+}
+
+.component-t-icon-outlined-copyright {
+  row-gap: 10px;
+  column-gap: 13px;
+}
+
+.component-icon-outlined-copyright {
+  flex-shrink: 0;
+}
+
+.component-t-label:focus-within {
+  box-shadow: 0 0 4px #1e40af;
+}
+
+.component-label::placeholder {
+  color: #8c98b7;
+}
+@media (min-width: 1430px) {
+  .component-ttt-logo-tframe-56tttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t {
+    flex-wrap: nowrap;
+  }
+  .component-tt-logo-tframe-56t {
+    flex-wrap: nowrap;
+  }
+  .component-t-misc-dot_03_m {
+    flex-wrap: nowrap;
+  }
+  .component-t-misc-dot_03_m-1 {
+    flex-wrap: nowrap;
+  }
+  .component-tt-logo-5tt90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+    flex-wrap: nowrap;
+  }
+  .component-t-t90rectangle-633ttrectangle-rectangle-rectangle-rectangle-rectangle-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+    flex-wrap: nowrap;
+  }
+  .component-rectangle-1 {
+    flex-wrap: nowrap;
+  }
+  .component-t-rectangle-rectangle-rectangle-rectangle-rectangle {
+    flex-wrap: nowrap;
+  }
+  .component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt {
+    flex-wrap: nowrap;
+  }
+  .component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte {
+    flex-wrap: nowrap;
+  }
+  .component-tt-icon-outlined-copyright {
+    flex-wrap: nowrap;
+  }
+  .component-t-icon-outlined-copyright {
+    flex-wrap: nowrap;
+  }
+}

@@ -1,0 +1,1775 @@
+@import url("https://fonts.googleapis.com/css2?family=Gilroy:wght@400;500;600;700;800");
+@import url("https://api.fontshare.com/css?f[]=gilroy@400,500,600,700,800&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+input {
+  background-image: none;
+  background-color: transparent;
+}
+
+.common-41,
+.component-bg-g,
+.component-bg-g1,
+.component-bg-g2 {
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+}
+
+.common-42,
+.component-t-bg-group-group,
+.component-t-bg-g2698g {
+  position: relative;
+  z-index: 0;
+}
+
+.common-40,
+.component-image,
+.component-image-1,
+.component-image-2,
+.component-image-3,
+.component-image-4,
+.component-t-bg-g2670g,
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2694tbg-g2698g {
+  background-position: center;
+  background-size: cover;
+}
+
+.common-38,
+.component-frame,
+.component-rectangle-1 {
+  border-style: solid;
+  border-color: aliceblue;
+}
+
+.common-39,
+.component-rectangle-4,
+.component-rectangle-9 {
+  border-style: solid;
+  border-color: lavender;
+}
+
+.common-21,
+.component-tt-logo-tframe-56t,
+.component-tt-image-10t1timage-10t,
+.component-tt-image-10timage,
+.component-t-mastercard-qiwi-payoneer-paypal-visa,
+.component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt,
+.component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte,
+.component-tt-icon-outlined-copyright,
+.component-t-icon-outlined-copyright {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-22,
+.component-ttt-rectangle-2tttimage-10t1timage-10tttimage-10timage-103timage-10t,
+.component-ttt-image-10t1timage-10tttimage-10timage-103timage-10t,
+.component-ttt-t650t790tttt,
+.component-t-t90rectangle-633ttmastercard-qiwi-payoneer-paypal-visa-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.common-23,
+.component-tt-mastercard-qiwi-payoneer-paypal-visa,
+.component-t-rectangle-6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.common-24,
+.component-t-logo,
+.component-tt-group-tttgroup-group,
+.component-tt-group-group,
+.component-t,
+.component-t-3,
+.component-tt-t650t,
+.component-t-4,
+.component-t-5,
+.component-t-8,
+.component-tt,
+.component-rectangle-2,
+.component-t-label,
+.component-t-bg-group-group,
+.component-t-group,
+.component-t-bg-g2698g,
+.component-t-group-1,
+.component-t-asus,
+.component-t-honor,
+.component-t-htc,
+.component-t-nokia,
+.component-t-samsung,
+.component-t-xiaomi,
+.component-t-zte,
+.component-t-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-25,
+.component-t-group-tttgroup-group,
+.component-t-rectangle-2tttimage-10t1timage-10tttimage-10timage-103timage-10t,
+.component-t-image-10t,
+.component-t-image-10t1,
+.component-t-image-10t2,
+.component-t-t650t,
+.component-t-6,
+.component-t-7,
+.component-t-9,
+.component-t-10,
+.component-t-11,
+.component-t-12,
+.component-t-90rectangle-633ttmastercard-qiwi-payoneer-paypal-visa {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.common-26,
+.component-t-bg-g2694tbg-g2698g,
+.component-tt-basic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.common-27,
+.component-t-frame,
+.component-frame,
+.component-t-edit-search,
+.component-ttt-group-tttgroup-group-basic-heart_outline-tuser-user_circle-t,
+.component-t-group-group,
+.component-t-rectangle-38rectangle,
+.component-tt-rectangle-38t,
+.component-tt-rectangle-38t1,
+.component-tt-rectangle-38t2,
+.component-tt-group,
+.component-rectangle-9,
+.component-t-t1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-28,
+.component-t-user-user_circle-t,
+.component-tttt-t650t790tttt,
+.component-tttt-rectangle-38rectangle-39tt650790ttrectangle-38t650790ttrectangle-38t650790ttrectangle-38t650790trectangle,
+.component-t-bg-g2670g,
+.component-t-basic-mail-brand-facebook-vk-11brand-instagram,
+.component-t-lg {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-29,
+.component-ttttt-rectangle-38rectangle-39tt650790ttrectangle-38t650790ttrectangle-38t650790ttrectangle-38t650790trectangle,
+.component-t-rectangle-4,
+.component-tt-logo-5tt90rectangle-633ttmastercard-qiwi-payoneer-paypal-visa-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle,
+.component-ttt-icon-outlined-copyright {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-30,
+.component-ttt-rectangle-38rectangle-39tt650790ttrectangle-38t650790ttrectangle-38t650790ttrectangle-38t650790trectangle,
+.component-rectangle-4 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.common-31,
+.component-rectangle-1,
+.component-tt-bg-group-group,
+.component-rectangle-5,
+.component-rectangle-7,
+.component-rectangle-8 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-32,
+.component-t-image,
+.component-t-image-1,
+.component-t-logo-1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.common-33,
+.component-t-1,
+.component-t-650t,
+.component-t-rectangle-5 {
+  display: flex;
+  align-items: flex-end;
+}
+
+.common-34,
+.component-wrapper,
+.component-wrapper-1,
+.component-wrapper-2,
+.component-tt-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2690tbg-g2694tbg-g2698g,
+.component-wrapper-3,
+.component-wrapper-4 {
+  display: flex;
+  align-items: center;
+}
+
+.common-35,
+.component-t-basic-heart_outline,
+.component-t-basic-heart_outline-1,
+.component-t-basic-heart_outline-2,
+.component-t-basic-heart_outline-3,
+.component-t-shopping-cart_,
+.component-t-rectangle,
+.component-t-rectangle-1,
+.component-t-rectangle-2,
+.component-t-rectangle-3,
+.component-master-card,
+.component-qiwi,
+.component-payoneer,
+.component-tg,
+.component-pay-pal,
+.component-visa {
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-36,
+.component-ttt-logo-tframe-56ttttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t,
+.component-component-35,
+.component-component-38,
+.component-component-41,
+.component-component-44,
+.component-tt-g2666ttbg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  justify-content: center;
+  align-items: center;
+}
+
+.common-37,
+.component-image,
+.component-image-1,
+.component-image-2,
+.component-image-3,
+.component-image-4,
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-16,
+.component-component-25,
+.component-component-34,
+.component-component-37,
+.component-component-40,
+.component-component-43 {
+  color: darkgray;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.common-17,
+.component-component-33,
+.component-component-36,
+.component-component-39,
+.component-component-42 {
+  color: dodgerblue;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.common-18,
+.component-component-10,
+.component-component-13,
+.component-component-16,
+.component-component-18,
+.component-component-20 {
+  color: white;
+  font-size: 14px;
+  text-align: center;
+}
+
+.common-19,
+.component-component-12,
+.component-component-15,
+.component-component-22,
+.component-ttt-t650t790tttt {
+  color: dimgray;
+  font-size: 14px;
+}
+
+.common-20,
+.component-component-35,
+.component-component-38,
+.component-component-41,
+.component-component-44 {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.common-1,
+.component-component-35,
+.component-component-38,
+.component-component-41,
+.component-component-44 {
+  display: flex;
+  width: 38px;
+  height: 38px;
+  background-color: aliceblue;
+  color: midnightblue;
+}
+
+.common-2,
+.component-image,
+.component-image-1,
+.component-image-2,
+.component-image-3,
+.component-image-4 {
+  display: flex;
+  width: 170px;
+  height: 170px;
+}
+
+.common-3,
+.component-t-basic-heart_outline,
+.component-t-basic-heart_outline-1,
+.component-t-basic-heart_outline-2,
+.component-t-basic-heart_outline-3 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+}
+
+.common-4,
+.component-t-rectangle,
+.component-t-rectangle-1,
+.component-t-rectangle-2,
+.component-t-rectangle-3 {
+  display: flex;
+  width: 38px;
+  height: 39px;
+}
+
+.common-5,
+.component-master-card,
+.component-qiwi,
+.component-payoneer,
+.component-pay-pal,
+.component-visa {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.common-6,
+.component-tt-g2666ttbg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-tg {
+  display: flex;
+  width: 14px;
+  height: 14px;
+}
+
+.common-7,
+.component-t-shopping-cart_,
+.component-lg {
+  display: flex;
+  width: 20px;
+}
+
+.common-8,
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g,
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  display: flex;
+  height: 4.8px;
+}
+
+.common-9,
+.component-component,
+.component-rectangle-1 {
+  display: flex;
+  background-color: white;
+}
+
+.common-10,
+.component-rectangle-3,
+.component-tt-bg-group-group,
+.component-rectangle-5,
+.component-rectangle-6,
+.component-rectangle-7,
+.component-rectangle-8 {
+  display: flex;
+  background-color: whitesmoke;
+}
+
+.common-11,
+.component-ttt-logo-tframe-56ttttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t,
+.component-t-2 {
+  display: flex;
+  color: lightslategray;
+}
+
+.common-12,
+.component-group-1,
+.component-group-2 {
+  width: 5.5px;
+  height: 5.5px;
+}
+
+.common-13,
+.component-basic-heart_outline,
+.component-user-user_circle,
+.component-icon-outlined-copyright {
+  width: 22px;
+  height: 22px;
+}
+
+.common-14,
+.component-basic-heart_outline-1,
+.component-basic-heart_outline-2,
+.component-basic-heart_outline-3,
+.component-basic-heart_outline-4,
+.component-basic-heart_outline-5,
+.component-basic-mail,
+.component-brand-facebook,
+.component-brand-instagram {
+  width: 24px;
+  height: 24px;
+}
+
+.common-15,
+.component-rectangle-10,
+.component-rectangle-11 {
+  height: 1px;
+  background-color: lavender;
+}
+
+.component-component {
+  row-gap: 3px;
+  flex-direction: column;
+  padding-top: 35px;
+  width: 100%;
+  font-family: Gilroy, ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 0em;
+}
+
+.component-ttt-logo-tframe-56ttttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t {
+  row-gap: 12px;
+  column-gap: 189px;
+  flex-wrap: wrap;
+  line-height: normal;
+}
+
+.component-tt-logo-tframe-56t {
+  row-gap: 8.5px;
+  column-gap: 25px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.component-t-logo {
+  padding-bottom: 1px;
+}
+
+.component-logo {
+  width: 338px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.component-t-frame {
+  padding-left: 5px;
+}
+
+.component-frame {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  width: 198px;
+}
+
+.component-component-1 {
+  display: flex;
+  outline: none;
+  flex-grow: 1;
+  min-width: 0px;
+}
+
+.component-edit-search {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+
+.component-component-2 {
+  padding-left: 10px;
+}
+
+.component-ttt-group-tttgroup-group-basic-heart_outline-tuser-user_circle-t {
+  column-gap: 20px;
+  padding-bottom: 1px;
+}
+
+.component-t-group-tttgroup-group {
+  row-gap: 1.2px;
+}
+
+.component-group {
+  width: 22px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.component-tt-group-group {
+  padding-left: 4.7px;
+  padding-right: 1.8px;
+}
+
+.component-t-group-group {
+  column-gap: 4.5px;
+}
+
+.component-group-1 {
+  flex-shrink: 0;
+}
+
+.component-group-2 {
+  flex-shrink: 0;
+}
+
+.component-basic-heart_outline {
+  flex-shrink: 0;
+}
+
+.component-t-user-user_circle-t {
+  column-gap: 8px;
+  padding-left: 10px;
+}
+
+.component-user-user_circle {
+  flex-shrink: 0;
+}
+
+.component-t {
+  padding-bottom: 1px;
+}
+
+.component-component-4 {
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.component-t-1 {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 57px;
+}
+
+.component-component-5 {
+  font-size: 30px;
+  color: dimgray;
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+.component-ttt-rectangle-2tttimage-10t1timage-10tttimage-10timage-103timage-10t {
+  row-gap: 73px;
+  column-gap: 73px;
+  padding-top: 58px;
+}
+
+.component-t-2 {
+  align-items: flex-start;
+  row-gap: 30px;
+  flex-direction: column;
+  font-size: 20px;
+  line-height: 1.1;
+}
+
+.component-component-6 {
+  font-weight: 500;
+}
+
+.component-component-7 {
+  font-weight: 500;
+}
+
+.component-component-8 {
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+.component-component-9 {
+  font-weight: 500;
+}
+
+.component-t-rectangle-2tttimage-10t1timage-10tttimage-10timage-103timage-10t {
+  row-gap: 51px;
+}
+
+.component-rectangle {
+  background-color: aliceblue;
+  width: 938px;
+  height: 1px;
+  flex-shrink: 0;
+}
+
+.component-ttt-image-10t1timage-10tttimage-10timage-103timage-10t {
+  row-gap: 20px;
+  column-gap: 20px;
+  padding-right: 7px;
+  line-height: normal;
+  font-weight: 700;
+}
+
+.component-tt-image-10t1timage-10t {
+  row-gap: 21px;
+  column-gap: 21px;
+}
+
+.component-t-image-10t {
+  row-gap: 11px;
+}
+
+.component-image {
+  background-image: url(/assets/image.png);
+  column-gap: 69px;
+  padding-bottom: 134px;
+  padding-left: 10px;
+  padding-right: 3px;
+  padding-top: 10px;
+  flex-shrink: 0;
+}
+
+.component-component-10 {
+  background-image: linear-gradient(
+    180deg,
+    rgba(63, 137, 220, 1),
+    rgba(85, 153, 229, 1)
+  );
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 13px;
+  padding-right: 12px;
+  padding-top: 4px;
+  padding-bottom: 5px;
+}
+
+.component-basic-heart_outline-1 {
+  flex-shrink: 0;
+}
+
+.component-component-11 {
+  color: midnightblue;
+  padding-top: 3px;
+}
+
+.component-t-image-10t1 {
+  row-gap: 11px;
+}
+
+.component-image-1 {
+  background-image: url(/assets/image-1.png);
+  column-gap: 69px;
+  padding-bottom: 134px;
+  padding-left: 10px;
+  padding-right: 3px;
+  padding-top: 10px;
+  flex-shrink: 0;
+}
+
+.component-component-13 {
+  background-image: linear-gradient(
+    180deg,
+    rgba(63, 137, 220, 1),
+    rgba(85, 153, 229, 1)
+  );
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 13px;
+  padding-right: 12px;
+  padding-top: 4px;
+  padding-bottom: 5px;
+}
+
+.component-t-basic-heart_outline {
+  flex-shrink: 0;
+}
+
+.component-basic-heart_outline-2 {
+  flex-shrink: 0;
+}
+
+.component-t-3 {
+  padding-right: 3px;
+  padding-top: 3px;
+}
+
+.component-component-14 {
+  color: midnightblue;
+}
+
+.component-tt-image-10timage {
+  row-gap: 20px;
+  column-gap: 20px;
+  color: midnightblue;
+}
+
+.component-t-image {
+  row-gap: 14px;
+  flex-grow: 1;
+  max-width: 170px;
+}
+
+.component-image-2 {
+  background-image: url(/assets/image-2.png);
+  column-gap: 69px;
+  padding-bottom: 134px;
+  padding-left: 10px;
+  padding-right: 3px;
+  padding-top: 10px;
+  flex-shrink: 0;
+}
+
+.component-component-16 {
+  background-image: linear-gradient(
+    180deg,
+    rgba(63, 137, 220, 1),
+    rgba(85, 153, 229, 1)
+  );
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 13px;
+  padding-right: 12px;
+  padding-top: 4px;
+  padding-bottom: 5px;
+}
+
+.component-t-basic-heart_outline-1 {
+  flex-shrink: 0;
+}
+
+.component-basic-heart_outline-3 {
+  flex-shrink: 0;
+}
+
+.component-component-17 {
+  width: 162px;
+}
+
+.component-t-image-1 {
+  row-gap: 14px;
+  flex-grow: 1;
+  max-width: 170px;
+}
+
+.component-image-3 {
+  background-image: url(/assets/image-3.png);
+  column-gap: 69px;
+  padding-bottom: 134px;
+  padding-left: 10px;
+  padding-right: 3px;
+  padding-top: 10px;
+  flex-shrink: 0;
+}
+
+.component-component-18 {
+  background-image: linear-gradient(
+    180deg,
+    rgba(63, 137, 220, 1),
+    rgba(85, 153, 229, 1)
+  );
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 13px;
+  padding-right: 12px;
+  padding-top: 4px;
+  padding-bottom: 5px;
+}
+
+.component-t-basic-heart_outline-2 {
+  flex-shrink: 0;
+}
+
+.component-basic-heart_outline-4 {
+  flex-shrink: 0;
+}
+
+.component-component-19 {
+  width: 164px;
+}
+
+.component-t-image-10t2 {
+  row-gap: 11px;
+}
+
+.component-image-4 {
+  background-image: url(/assets/image-4.png);
+  column-gap: 69px;
+  padding-bottom: 134px;
+  padding-left: 10px;
+  padding-right: 3px;
+  padding-top: 10px;
+  flex-shrink: 0;
+}
+
+.component-component-20 {
+  background-image: linear-gradient(
+    180deg,
+    rgba(63, 137, 220, 1),
+    rgba(85, 153, 229, 1)
+  );
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 13px;
+  padding-right: 12px;
+  padding-top: 4px;
+  padding-bottom: 5px;
+}
+
+.component-t-basic-heart_outline-3 {
+  flex-shrink: 0;
+}
+
+.component-basic-heart_outline-5 {
+  flex-shrink: 0;
+}
+
+.component-component-21 {
+  color: midnightblue;
+  padding-top: 3px;
+}
+
+.component-tttt-t650t790tttt {
+  padding-left: 367px;
+  padding-right: 181px;
+}
+
+.component-ttt-t650t790tttt {
+  row-gap: 8.5px;
+  column-gap: 59px;
+  flex-grow: 1;
+  line-height: normal;
+}
+
+.component-tt-t650t {
+  padding-top: 1px;
+}
+
+.component-t-t650t {
+  row-gap: 13px;
+}
+
+.component-component-23 {
+  text-align: center;
+}
+
+.component-t-650t {
+  column-gap: 7px;
+}
+
+.component-component-24 {
+  font-size: 20px;
+  color: darkslategray;
+  font-weight: 700;
+}
+
+.component-t-4 {
+  padding-bottom: 2px;
+}
+
+.component-component-25 {
+  text-decoration: line-through;
+}
+
+.component-t-5 {
+  padding-top: 1px;
+}
+
+.component-t-6 {
+  row-gap: 4px;
+}
+
+.component-t-7 {
+  row-gap: 4px;
+}
+
+.component-t-8 {
+  padding-top: 1px;
+}
+
+.component-ttttt-rectangle-38rectangle-39tt650790ttrectangle-38t650790ttrectangle-38t650790ttrectangle-38t650790trectangle {
+  padding-left: 142px;
+  padding-right: 142px;
+  padding-top: 4px;
+}
+
+.component-tttt-rectangle-38rectangle-39tt650790ttrectangle-38t650790ttrectangle-38t650790ttrectangle-38t650790trectangle {
+  flex-grow: 1;
+  padding-left: 225px;
+}
+
+.component-ttt-rectangle-38rectangle-39tt650790ttrectangle-38t650790ttrectangle-38t650790ttrectangle-38t650790trectangle {
+  align-items: flex-start;
+  flex-grow: 1;
+  line-height: normal;
+}
+
+.component-tt-rectangle-38rectangle-39tt {
+  align-items: flex-start;
+  column-gap: 21px;
+  padding-top: 10px;
+  justify-content: center;
+  display: flex;
+}
+
+.component-component-32 {
+  font-size: 15px;
+  font-weight: 500;
+  color: midnightblue;
+  background-color: aliceblue;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 13px;
+  padding-bottom: 12px;
+}
+
+.component-rectangle-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-right-radius: 5px;
+  padding-bottom: 10px;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 10px;
+  border-top-right-radius: 5px;
+  text-align: left;
+}
+
+.component-t-shopping-cart_ {
+  height: 21px;
+  padding-top: 1px;
+  flex-shrink: 0;
+}
+
+.component-shopping-cart_ {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+.component-tt {
+  height: 31px;
+}
+
+.component-t-9 {
+  margin-top: -10px;
+  row-gap: 3px;
+  height: 41px;
+  flex-shrink: 0;
+}
+
+.component-component-34 {
+  text-decoration: line-through;
+}
+
+.component-tt-rectangle-38t {
+  column-gap: 20px;
+}
+
+.component-t-rectangle {
+  padding-bottom: 1px;
+  flex-shrink: 0;
+}
+
+.component-component-35 {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  flex-shrink: 0;
+}
+
+.component-t-10 {
+  row-gap: 3px;
+}
+
+.component-component-37 {
+  text-decoration: line-through;
+}
+
+.component-tt-rectangle-38t1 {
+  column-gap: 20px;
+}
+
+.component-t-rectangle-1 {
+  padding-bottom: 1px;
+  flex-shrink: 0;
+}
+
+.component-component-38 {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  flex-shrink: 0;
+}
+
+.component-t-11 {
+  row-gap: 3px;
+}
+
+.component-component-40 {
+  text-decoration: line-through;
+}
+
+.component-tt-rectangle-38t2 {
+  column-gap: 20px;
+}
+
+.component-t-rectangle-2 {
+  padding-bottom: 1px;
+  flex-shrink: 0;
+}
+
+.component-component-41 {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  flex-shrink: 0;
+}
+
+.component-t-12 {
+  row-gap: 3px;
+}
+
+.component-component-43 {
+  text-decoration: line-through;
+}
+
+.component-t-rectangle-3 {
+  padding-top: 1px;
+  flex-shrink: 0;
+}
+
+.component-component-44 {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  flex-shrink: 0;
+}
+
+.component-t-rectangle-4 {
+  padding-left: 21px;
+  padding-top: 27px;
+}
+
+.component-rectangle-2 {
+  border-style: solid;
+  border-color: ghostwhite;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 43px;
+  height: 43px;
+  padding-bottom: 9px;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 9px;
+  justify-content: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  flex-shrink: 0;
+}
+
+.component-shopping-cart_1 {
+  width: 23px;
+  height: 23px;
+  flex-shrink: 0;
+}
+
+.component-rectangle-3 {
+  color: lightslategray;
+  flex-direction: column;
+  row-gap: 19px;
+  justify-content: flex-end;
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 65px;
+  padding-bottom: 30px;
+  margin-top: 123px;
+}
+
+.component-tt-logo-5tt90rectangle-633ttmastercard-qiwi-payoneer-paypal-visa-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  row-gap: 69px;
+  column-gap: 107px;
+  flex-wrap: wrap;
+}
+
+.component-t-logo-1 {
+  row-gap: 37px;
+  width: 314px;
+  flex-shrink: 0;
+}
+
+.component-logo-1 {
+  width: 275px;
+  height: 37px;
+  flex-shrink: 0;
+}
+
+.component-component-45 {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.component-t-t90rectangle-633ttmastercard-qiwi-payoneer-paypal-visa-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  row-gap: 69px;
+  column-gap: 136px;
+}
+
+.component-t-90rectangle-633ttmastercard-qiwi-payoneer-paypal-visa {
+  row-gap: 12px;
+  width: 329px;
+  flex-shrink: 0;
+}
+
+.component-component-46 {
+  line-height: normal;
+}
+
+.component-rectangle-4 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  align-items: center;
+  row-gap: 11px;
+  column-gap: 32px;
+  align-self: stretch;
+  padding-bottom: 8px;
+  padding-left: 17px;
+  padding-right: 8px;
+  padding-top: 8px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.component-t-label {
+  padding-bottom: 2px;
+}
+
+.component-enable {
+  font-weight: 600;
+  color: white;
+  background-color: midnightblue;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.component-tt-mastercard-qiwi-payoneer-paypal-visa {
+  align-items: center;
+  padding-left: 1px;
+  padding-top: 15px;
+}
+
+.component-t-mastercard-qiwi-payoneer-paypal-visa {
+  row-gap: 16px;
+  column-gap: 20px;
+}
+
+.component-wrapper {
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.15));
+}
+
+.component-master-card {
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.component-tt-bg-group-group {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  padding-left: 11.3px;
+  padding-right: 11.3px;
+  padding-top: 13.8px;
+  padding-bottom: 13.8px;
+}
+
+.component-t-bg-group-group {
+  padding-bottom: 0.81px;
+}
+
+.component-bg-group {
+  width: 32px;
+  height: 20px;
+  z-index: 0;
+  bottom: -7.82px;
+  left: -2.55px;
+  right: -2.54px;
+  top: -7.82px;
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.component-group-3 {
+  width: 27px;
+  height: 3.5px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-wrapper-1 {
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.15));
+}
+
+.component-qiwi {
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.component-rectangle-5 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 6.6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 6.6px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-t-group {
+  padding-top: 0.88px;
+}
+
+.component-group-4 {
+  width: 40px;
+  height: 18px;
+  flex-shrink: 0;
+}
+
+.component-wrapper-2 {
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.15));
+}
+
+.component-payoneer {
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.component-rectangle-6 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  align-items: center;
+  column-gap: 3.7px;
+  padding-bottom: 8.7px;
+  padding-left: 7px;
+  padding-right: 20px;
+  padding-top: 9.5px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-t-bg-g2670g {
+  height: 6.4px;
+  padding-left: 4.5px;
+  padding-top: 1.7px;
+  z-index: 0;
+  background-image: url(/assets/G.svg);
+}
+
+.component-g {
+  width: 0.49px;
+  height: 4.7px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-tt-g2666ttbg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  z-index: 0;
+  flex-shrink: 0;
+}
+
+.component-tg {
+  padding-bottom: 0.77px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-g-1 {
+  margin-bottom: -23.84px;
+  width: 14px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.component-tt-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  width: 0px;
+  padding-top: 1.8px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2678tbg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  margin-left: -8.75px;
+  width: 4.6px;
+  padding-bottom: 0.1px;
+  background-image: url(/assets/G1.svg);
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2682tbg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  width: 0.21px;
+  height: 4.7px;
+  padding-left: 0.21px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.component-bg-g {
+  width: 4.6px;
+  height: 4.7px;
+  right: -4.63px;
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2686tbg-g2690tbg-g2694tbg-g2698g {
+  margin-top: 0.05px;
+  margin-right: -9.25px;
+  width: 4.2px;
+  padding-left: 4.2px;
+  background-image: url(/assets/G2.svg);
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2690tbg-g2694tbg-g2698g {
+  margin-left: -0.19px;
+  width: 0.19px;
+  padding-bottom: 0.1px;
+  padding-left: 0.19px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.component-bg-g1 {
+  width: 4.2px;
+  height: 4.8px;
+  right: -4.16px;
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2694tbg-g2698g {
+  margin-right: -7.61px;
+  width: 3.4px;
+  padding-bottom: 3.9px;
+  padding-left: 3.4px;
+  padding-top: 0.24px;
+  background-image: url(/assets/G3.svg);
+  flex-shrink: 0;
+}
+
+.component-t-bg-g2698g {
+  margin-left: 0.77px;
+  width: 0.77px;
+  height: 0.61px;
+  padding-left: 0.4px;
+  flex-shrink: 0;
+}
+
+.component-bg-g2 {
+  width: 0px;
+  height: 0.61px;
+  z-index: 0;
+  left: 0.77px;
+  right: 0px;
+  flex-shrink: 0;
+}
+
+.component-g-2 {
+  margin-left: 1.4px;
+  margin-bottom: -2.47px;
+  width: 1.1px;
+  height: 1.1px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.component-wrapper-3 {
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.15));
+}
+
+.component-pay-pal {
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.component-rectangle-7 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  row-gap: 3.4px;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 4px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-t-group-1 {
+  width: 12px;
+  height: 13px;
+  padding-left: 1.1px;
+  flex-shrink: 0;
+}
+
+.component-group-5 {
+  width: 11px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.component-group-6 {
+  width: 27px;
+  height: 7.1px;
+  flex-shrink: 0;
+}
+
+.component-wrapper-4 {
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.15));
+}
+
+.component-visa {
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.component-rectangle-8 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 10px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 10px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.component-group-7 {
+  width: 38px;
+  height: 11px;
+  flex-shrink: 0;
+}
+
+.component-tt-basic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+  row-gap: 17px;
+  text-align: center;
+}
+
+.component-t-basic-mail-brand-facebook-vk-11brand-instagram {
+  column-gap: 18px;
+}
+
+.component-basic-mail {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-brand-facebook {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-vk {
+  width: 27px;
+  height: 24px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-brand-instagram {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.component-t-rectangle-5 {
+  padding-top: 12px;
+  justify-content: flex-end;
+}
+
+.component-rectangle-9 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding-bottom: 13px;
+  padding-left: 26px;
+  padding-right: 27px;
+  padding-top: 13px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+
+.component-enable-1 {
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.component-component-47 {
+  line-height: normal;
+}
+
+.component-t-rectangle-6 {
+  padding-top: 26px;
+}
+
+.component-rectangle-10 {
+  flex-shrink: 0;
+}
+
+.component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt {
+  row-gap: 9.5px;
+  column-gap: 110px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 2px;
+  line-height: normal;
+}
+
+.component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte {
+  row-gap: 9.5px;
+  column-gap: 23px;
+  flex-grow: 1;
+}
+
+.component-t-asus {
+  padding-left: 2px;
+}
+
+.component-t-honor {
+  padding-left: 2px;
+}
+
+.component-t-htc {
+  padding-left: 2px;
+}
+
+.component-lenovo {
+  padding-left: 4px;
+}
+
+.component-t-lg {
+  padding-left: 4px;
+}
+
+.component-lg {
+  height: 19px;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.component-t-nokia {
+  padding-left: 3px;
+}
+
+.component-t-samsung {
+  padding-left: 3px;
+}
+
+.component-sony {
+  padding-left: 5px;
+}
+
+.component-t-xiaomi {
+  padding-left: 2px;
+}
+
+.component-t-zte {
+  padding-left: 3px;
+}
+
+.component-t-t1 {
+  column-gap: 28px;
+}
+
+.component-t-13 {
+  padding-bottom: 1px;
+}
+
+.component-component-49 {
+  line-height: 1;
+}
+
+.component-rectangle-11 {
+  flex-shrink: 0;
+}
+
+.component-ttt-icon-outlined-copyright {
+  padding-right: 16px;
+  padding-top: 4px;
+}
+
+.component-tt-icon-outlined-copyright {
+  row-gap: 10px;
+  column-gap: 217px;
+  flex-grow: 1;
+  font-size: 18px;
+  line-height: 1.1;
+}
+
+.component-t-icon-outlined-copyright {
+  row-gap: 10px;
+  column-gap: 13px;
+}
+
+.component-icon-outlined-copyright {
+  flex-shrink: 0;
+}
+
+.component-frame:focus-within {
+  box-shadow: 0 0 4px #1e40af;
+}
+
+.component-component-1::placeholder {
+  color: #8c98b7;
+}
+@media (min-width: 1430px) {
+  .component-ttt-logo-tframe-56ttttgroup-tttgroup-group-basic-heart_outline-tuser-user_circle-t {
+    flex-wrap: nowrap;
+  }
+  .component-tt-logo-tframe-56t {
+    flex-wrap: nowrap;
+  }
+  .component-ttt-rectangle-2tttimage-10t1timage-10tttimage-10timage-103timage-10t {
+    flex-wrap: nowrap;
+  }
+  .component-ttt-image-10t1timage-10tttimage-10timage-103timage-10t {
+    flex-wrap: nowrap;
+  }
+  .component-tt-image-10t1timage-10t {
+    flex-wrap: nowrap;
+  }
+  .component-tt-image-10timage {
+    flex-wrap: nowrap;
+  }
+  .component-ttt-t650t790tttt {
+    flex-wrap: nowrap;
+  }
+  .component-ttt-rectangle-38rectangle-39tt650790ttrectangle-38t650790ttrectangle-38t650790ttrectangle-38t650790trectangle {
+    flex-wrap: nowrap;
+  }
+  .component-tt-logo-5tt90rectangle-633ttmastercard-qiwi-payoneer-paypal-visa-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+    flex-wrap: nowrap;
+  }
+  .component-t-t90rectangle-633ttmastercard-qiwi-payoneer-paypal-visa-ttbasic-mail-brand-facebook-vk-11brand-instagram-trectangle {
+    flex-wrap: nowrap;
+  }
+  .component-rectangle-4 {
+    flex-wrap: nowrap;
+  }
+  .component-t-mastercard-qiwi-payoneer-paypal-visa {
+    flex-wrap: nowrap;
+  }
+  .component-tt-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte-tt {
+    flex-wrap: nowrap;
+  }
+  .component-t-apple-tasus-thonor-thtc-huawei-tlenovo-tlg-meizu-tnokia-tsamsung-tsony-txiaomi-tzte {
+    flex-wrap: nowrap;
+  }
+  .component-tt-icon-outlined-copyright {
+    flex-wrap: nowrap;
+  }
+  .component-t-icon-outlined-copyright {
+    flex-wrap: nowrap;
+  }
+}
